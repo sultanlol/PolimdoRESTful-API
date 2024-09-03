@@ -1,3002 +1,372 @@
 [
     {
-        "nip": " 002109900600000000",
-        "username": "Sintya Junaedy",
-        "kategori": "DB",
+        "id": "64006bc7eae7f",
+        "judul": "PIM  Pelatihan Promosi Usaha Peternak Babi Desa Lansot Timur Kecamatan Tareran",
+        "skema": "PPIpM",
+        "abstrak": "Mitra dalam program ini yaitu peternak babi yang ada di desa Lansot Timur. PIM ini bertujuan untuk membantu para peternak babi untuk membuat laporan keuangan dengan memanfaatkan aplikasi Buku Warung dan mendapatkan informasi harga jual secara real time. Membangun  usaha dengan memanfaatkan teknologi/internet  bukanlah hal yang  mudah. Tak peduli seberapa bagus atau uniknya produk dan layanan kita, usaha kita tetap perlu berkompetisi dengan banyak bisnis lain untuk mendapat perhatian audiens target. Peningkatan produksi babi sebenarnya mudah untuk dilakukan, mengingat cepatnya proses pembiakan dan pertumbuhan babi di lapangan. Namun banyak faktor yang menghambat peningkatan produksi babi, mulai dari lingkungan internal seperti manajemen peternak yang kurang memadai, kurangnya teknologi yang diterapkan oleh peternak dan kualitas bibit yang menurun. Sedangkan untuk faktor eksternal seperti sosial budaya yang tidak mendukung perkembangan peternakan babi dan mahalnya bahan baku pakan, mengakibatkan sulitnya peternak babi untuk berkembang dan memenuhi permintaan pasar yang masih belum terpenuhi . \r\nUntuk dapat mengembangkan usaha ternak babi agar memenuhi permintaan pasar dibutuhkan strategi yang tepat.  Tingginya permintaan daging babi di Sulawesi Utara, seharusnya dibarengi dengan nilai jual yang sesuai. Ketidakpastian nilai jual daging babi dapat menyebabkan usaha yang dijalankan tidak mendapatkan hasil yang diharapkan. \r\nSolusi yang ditawarkan adalah  suatu teknologi atau alat bantu untuk pencatatan keuangan dan untuk mengetahui harga jual secara real time dengan memanfaatkan media online, sehingga para peternak boleh mendapatkan keuntungan dari usaha yang dijalankan. \r\n",
+        "nipKetua": "196710132003122001",
+        "image": "64006bc7eae7f.pdf",
+        "jumlahMember": 2,
+        "durasi": "satu",
+        "periode": "pertama",
+        "jumlahLW": 4,
+        "jumlahLT": 1,
+        "nipMember1": "196804161995121001,1",
+        "nipMember2": "196412211999032001,1",
+        "nipMember3": null,
+        "nipMember4": null,
+        "lw1": "Laporan akhir",
+        "lw2": "Jurnal PkM ber-ISSN atau prosiding seminar nasional atau publikasi pada \r\nmedia massa cetak dan online",
+        "lws1": "Lengkap dan sesuai format",
+        "lws2": "Minimal Accepted",
+        "lws3": "Tersedia",
+        "lt1": "SN",
+        "lts1": "Selesai",
+        "anggaran": 10000000,
         "jurusan": "TE",
-        "kelamin": null,
-        "prodi": null
+        "status": "berhasil",
+        "jumlahmitra": 1,
+        "namamitra1": null,
+        "namamitra2": null,
+        "alamatmitra2": null,
+        "alamatmitra1": null,
+        "revisi": "yes",
+        "tanggalSubmit": "2023-03-02T00:00:00.000Z",
+        "verifikasi": null,
+        "kinerja": null,
+        "komkapus": "Semangat dan terus berkarya untuk POLIMDO"
     },
     {
-        "nip": " 123456",
-        "username": null,
-        "kategori": null,
-        "jurusan": null,
-        "kelamin": null,
-        "prodi": null
+        "id": "64006df0ec263",
+        "judul": "PIM  PERBAIKAN  INSTALASI LISTRIK RUMAH TINGGAL Di  DESA PASLATEN KECAMATAN TATAPAAN",
+        "skema": "PPIpM",
+        "abstrak": "Kegiatan perbaikan instalasi listrik merupakan bagian penting yang harus dilakukan untuk mencegah terjadinya kebakaran rumah tinggal. Mitra kegiatan ini adalah warga masyarakat desa paslaten yang sampai saat ini instalasi listrik di tempat tinggalnya masih terpasang secara semraut dan belum memenuhi standar yang berlaku.\r\nInstalasi listrik adalah suatu bagian penting yang terdapat dalam sebuah bangunan gedung , yang berfungsi sebagai penunjang kenyamanan penghuninya. Jika instalasi listrik terpasang dengan baik dan benar maka amanlah rumah tinggal kita. Oleh sebab itu informasi dan pengetahuan tentang cara pemasangan instalasi listrik sangat penting untuk disebarluaskan. \r\nSasaran awal dari kegiatan ini beberapa rumah tinggal yang yang instalasi listriknya terpasang belum memenuhi standar.  Mitra dari program PIM berlokasi di jaga III desa Paslaten kecamatan Tatapaan kabupaten Minahasa tenggara. Secara ekonomis mitra tergolong kurang mampu dan sangat layak untuk mendapatkan bantuan dalam hal memberi pengetahuan dan mendapatkan bantuan perbaikan instalasi listrik rumah tinggal.  Mengingat masalah instalasi listrik telah menimbulkan / mengakibatkan korban jiwa dan kerugian materil yang sangat besar, maka program ini akan sangat membantu mitra. \r\nAdapun tujuan program ini , yaitu untuk memberikan  keterampilan dalam bidang Instalasi Listrik dengan pemahaman bahwa keamanan instalasi listrik dalam rumah menjadi faktor yang sangat penting untuk keamanan rumah tinggal serta melakukan perbaikan instalasi listrik rumah tinggal dari mitra. \r\n Metode  yang  dilaksanakan dalam program  ini meliputi : penyuluhan  , diskusi , dan perbaikan instalasi listrik serta evaluasi dengan harapan agar mitra  dapat memiliki instalisi listrik yang baik dan memenuhi standar sehingga tidak ada rasa kuatir dan takut selama berada di dalam rumah.   Mitra sangat mendukung program ini dengan menfasilitasi lokasi untuk pelaksanaan kegiatan  dan  bersedia mendampingi untuk kelanjutan dari pelaksanaan program.\r\n",
+        "nipKetua": "197303312005011001",
+        "image": "64006df0ec263.pdf",
+        "jumlahMember": 3,
+        "durasi": "satu",
+        "periode": "pertama",
+        "jumlahLW": 4,
+        "jumlahLT": 1,
+        "nipMember1": "196730041992031003,1",
+        "nipMember2": "197309092003121001,1",
+        "nipMember3": "196606041995121002,1",
+        "nipMember4": null,
+        "lw1": "Laporan akhir",
+        "lw2": "Jurnal PkM ber-ISSN atau prosiding seminar nasional atau publikasi pada \r\nmedia massa cetak dan online",
+        "lws1": "Lengkap dan sesuai format",
+        "lws2": "Minimal Accepted",
+        "lws3": "Tersedia",
+        "lt1": "SN",
+        "lts1": "Selesai",
+        "anggaran": 10000000,
+        "jurusan": "TE",
+        "status": "berhasil",
+        "jumlahmitra": 1,
+        "namamitra1": null,
+        "namamitra2": null,
+        "alamatmitra2": null,
+        "alamatmitra1": null,
+        "revisi": "yes",
+        "tanggalSubmit": "2023-03-02T00:00:00.000Z",
+        "verifikasi": null,
+        "kinerja": null,
+        "komkapus": "Semangat dan terus berkarya untuk POLIMDO"
     },
     {
-        "nip": "000000000001067512",
-        "username": "Vincentius Pantow, SS., M. Hum",
-        "kategori": "DB",
+        "id": "6400727e1184f",
+        "judul": "IMPLEMENTASI PRODUK STUDENT CENTERED LEARNING PADA MITRA (UKM) MAJISUKA SMANDU",
+        "skema": "PUPIV",
+        "abstrak": "Dalam pengabdian ini, peneliti akan mengimplementasikan produk student centered learning melalui suatu metode atau aplikasi. Pengabdian ini telah dilakukan pada penelitian, tahun 2020 dengan judul “Penerapan metode student centered learning (scl) melalui strategi discovery pada pendidikan vokasi”. Produk media tersebut, dapat memberikan motivasi yang tinggi pada mahasiswa yang belajar bahasa Jepang. Dimana, para pembelajar ini dapat mengetahui Student Centered Learning. Berdirinya Mitra Majisuka Smandu karena mereka akan memperkenalkan budaya-budaya Jepang kepada siswa-siswa dan masyarakat. Visi dari pada Majisuka Smandu adalah memperkenalkan dan membawah sisi baik dan karakteristik Jepang ke Manado khususnya pada SMA N 2 di Manado. Sedangkan Misi dari pada Majisuka Smandu adalah membangun bakat dan minat siswa SMA N 2 manado dalam budaya yang menyangkut bahasa Jepang. Mengembangkan kreativitas siswa dalam berorganisasi. Melestarikan budaya Jepang di manado. Pada mitra ini sangat perlu mendapatkan produk teknologi tersebut, di mana mereka akan melakukan pekerjaan mereka untuk sosialisasikan kepada siswa-siswa dan masyarakat. Produk teknologi ini sangat membantu untuk kegiatan dan pekerjaan mereka. Alasan pengabdian ini, karena selama ini mitra majisuka smandu yang belajar bahasa Jepang belum menganal metode Student Centered Learning secara nyata. Atau mereka hanya mengetahui secara konvensional atau tau sedikit dan hanya pernah dengar saja. Dengan demikian, pengabdian ini melalui produk, akan membantu para mitra dalam berkolaborasi, berkomunikasi. Maka dari itu, penulis akan mengimplementasikan produk student centered learning yang akan menampilkan media ini. Media ini sangat bagus untuk di praktekkan. Hal ini, para mitra UKM akan mendapatkan model/ metode baru atau produk baru. Dalam pengabdian ini, tiem pengabdian kami akan mengimplementasikan produk Student Centered Learning untuk mengimplementasikan terhadap mitra Majisuka Smandu. Tugas ketua pengabdian adalah mempersiapkan produk teknologi untuk dibagikan. Tugas ketua juga mempresentasikan, mengimplementasikan produk teknologi terhadap mitra. Tugas ketua juga akan membuat poster. Membuat luaran Jurnal ber ISBN. Membuat Chanel Video ke you tube P3M Polimdo. Tugas anggota 1 membantu mengawas, mempresentasikan dan membagikan produk. Tugas anggota 2, Mengumpul data-data untuk kegiatan pengabdian di You Tube p3m, membantu penyelesaian Jurnal pengabdian. Tugas anggota 3, membantu penyelesaian untuk diterbitkan melalui media massa.",
+        "nipKetua": "197305282005012001",
+        "image": "6400727e1184f.pdf",
+        "jumlahMember": 3,
+        "durasi": "satu",
+        "periode": "pertama",
+        "jumlahLW": 5,
+        "jumlahLT": 1,
+        "nipMember1": "196307301993032001,1",
+        "nipMember2": "197409152002122001,1",
+        "nipMember3": "196604141994031002,1",
+        "nipMember4": null,
+        "lw1": "Laporan akhir",
+        "lw2": "Jurnal PkM",
+        "lws1": "Lengkap dan sesuai format",
+        "lws2": "Accepted atau Published",
+        "lws3": "Published",
+        "lt1": "HKI",
+        "lts1": "Published",
+        "anggaran": 20000000,
         "jurusan": "AB",
-        "kelamin": "P",
-        "prodi": "D-IV Management Bisnis"
+        "status": "gagal",
+        "jumlahmitra": 1,
+        "namamitra1": null,
+        "namamitra2": null,
+        "alamatmitra2": null,
+        "alamatmitra1": null,
+        "revisi": "no",
+        "tanggalSubmit": "2023-03-02T00:00:00.000Z",
+        "verifikasi": null,
+        "kinerja": null,
+        "komkapus": "Semangat dan terus berkarya untuk POLIMDO"
     },
     {
-        "nip": "000000000010038107",
-        "username": "Tracy Marsela, ST.,MT",
-        "kategori": "DB",
+        "id": "640074ebd3f2e",
+        "judul": "PIM Pelatihan Siswa SMK tentang Belajar Bahasa  Indonesia dan Bahasa Inggris",
+        "skema": "PPIpM",
+        "abstrak": "Sasaran program ini diarahkan pada peningkatan penguasaan kosa kata 2 bahasa (Bahasa  Indonesia dan Bahasa Inggris) siswa melalui metode contextual teaching and learning (CTL). Alasan pengusul bersama mitra menentukan persoalan prioritas yang disepakati untuk diselesaikan selama pelaksanaan program PIM karena salah satu cara menerobos pandemic Covis 19 yang selama ini siswa banyak belajar di rumah, yakni memotivasi siswa agar tetap berkreasi dalam situasi apapun termasuk situasi pandemi covid 19 saat ini. Demikian pula, sebagaimana observasi lapangan bahwa umumnya siswa sulit berbahasa Indonesia apalagi melakukan komunikasi dalam bahasa inggris , cenderung berbahasa Melayu Manado, maka langkah bijak antara lain siswa dieksplor untuk dapat menuangkan gagasan dalam bahasa Indonesia yang baik dan benar, khususnya menulis surat dinas dan mencipta puisi dengan pendekatan kontekstual. Hasil yang diperoleh, yakni diharapkan siswa dapat belajar bahasa secara praktis, termasuk penerapan kaidah kebahasaan dan dapat mengeksplor kreativitas siswa terkait bahasa. Mitra sasaran program ini, yaitu siswa  SMKN 1 Tareran.  Sekolah ini berlokasi di Desa Lansot  Kecamatan Tareran, Minahasa Selatan. Sekolah ini merupakan salah satu sekolah di Kecamatan Tareran yang terakreditasi   sehingga siswa-siswa dituntut mampu dan tanggap terhadap isu-isu positif atau aktual yang dapat diperoleh, baik secara lisan maupun tulisan. Banyaknya ketidaktepatan penggunaan bahasa yang dilakukan oleh pemakai bahasa kedua oleh karena berbagai hal, misalnya ketidakpedulian, interferensi  bahasa ibu, interferensi bahasa asing, munculnya bahasa-bahasa gaul berdampak bagi kelangsungan bahasa formal, dalam hal ini bahasa Indonesia sebagai bahasa negara dan bahasa persatuan. Ketidaktepatan berbahasa terjadi mulai dari bunyi bahasa (pelafalan) sampai pada tingkat penuangan ide dalam kalimat. Dalam kaitan itu, perlu penguatan kepada pengguna bahasa untuk meningkatkan sikap berbahasa, baik bahasa Indonesia sebagai bahasa utama maupun bahasa Inggris yang saat ini menjadi syarat untuk mendapatkan pekerjaan tertentu termasuk siswa SMK N Tareran menjawab kebutuhan ini, maka siswa disegarkan kembali dengan pelatihan yang direncanakan akan dilaksanakan oleh Tim PIM. Tujuan program ini, yaitu meningkatkan kemampuan berbahasa siswa, baik secara lisan maupun tulisan. Walaupun demikian, dengan keterbatasan waktu, maka kegiatan akan  berfokus pada mengkritisi/menulis surat dinas dalam bahasa Indonesia dan bahasa Inggris dan mencipta karya sastra, lebih khusus cipta puisi. Target khusus kegiatan ini, 1) meningkatnya ketepatan berbahasa siswa dalam bahasa tulis, baik dalam bahasa Indonesia (lebih khusus surat dinas ) dan bahasa Inggris (surat lamaran pekerjaan); 2) meningkatnya kreativitas siswa dalam menulis sastra, khususnya cipta puisi; 3) menghasilkan kreatifivitas dan kepekaan siswa dalam mengembangkan dan menuangkan gagasan/pikiran dengan struktur bahasa yang tepat . Adapun metode pelaksanaan yang akan diterapkan pada program ini, yaitu penyuluhan, pelatihan dan evaluasi. Luaran yang akan dihasilkan berupa publikasi pada media online.",
+        "nipKetua": "195911091993032001",
+        "image": "640074ebd3f2e.pdf",
+        "jumlahMember": 1,
+        "durasi": "satu",
+        "periode": "pertama",
+        "jumlahLW": 4,
+        "jumlahLT": 1,
+        "nipMember1": "196405261998031001,1",
+        "nipMember2": null,
+        "nipMember3": null,
+        "nipMember4": null,
+        "lw1": "Laporan akhir",
+        "lw2": "Jurnal PkM ber-ISSN atau prosiding seminar nasional atau publikasi pada \r\nmedia massa cetak dan online",
+        "lws1": "Lengkap dan sesuai format",
+        "lws2": "Minimal Accepted",
+        "lws3": "Tersedia",
+        "lt1": "SN",
+        "lts1": "Selesai",
+        "anggaran": 10000000,
         "jurusan": "TE",
-        "kelamin": "W",
-        "prodi": "D-IV Teknik Informatika"
+        "status": "berhasil",
+        "jumlahmitra": 1,
+        "namamitra1": null,
+        "namamitra2": null,
+        "alamatmitra2": null,
+        "alamatmitra1": null,
+        "revisi": "yes",
+        "tanggalSubmit": "2023-03-02T00:00:00.000Z",
+        "verifikasi": null,
+        "kinerja": null,
+        "komkapus": "Semangat dan terus berkarya untuk POLIMDO"
     },
     {
-        "nip": "000000000028047815",
-        "username": "Heidy Pesik",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-IV Akuntansi Pajak"
+        "id": "64007652a51c7",
+        "judul": "PIM Pelatihan Perawatan dan Perbaikan Komputer Pemuda di Desa Mundung, Ratahan",
+        "skema": "PPIpM",
+        "abstrak": "Tujuan kegiatan Penerapan IPTEK pada masyarakat adalah , agar peserta dapat: Memiliki pengetahuan tentang bagaimana dasar – dasar cara perakitan komputer, memiliki pengetahuan tentang bagaimana melakukan installasi sistem operasi windows  beserta program-program aplikasinya dan  pengetahuan tentang cara memperbaiki  komputer baik  hardware maupun software. Kegiatan ini dilaksanakan di desa Mundung kabupaten Minahasa Tenggara lebih khususnya bagi anak muda yang belum melanjutkan pendidikan ke perguruan tinggi dan belum memiliki pekerjaan dan tidak  memiliki  pengetahuan mengenai perakitan dan maintenance pada komputer PC (Personal Computer) maupun laptop.  Di  era kemajuan IPTEK kompetensi tentang cara perakitan dan perbaikan hardware maupun software komputer sangat dibutuhkan agar mereka nantinya dapat mengatasi sendiri permasalahan pada perangkat komputer tapi juga membuka peluang untuk menciptakan lapangan pekerjaan baru. ",
+        "nipKetua": "197601272003121002",
+        "image": "64007652a51c7.pdf",
+        "jumlahMember": 2,
+        "durasi": "satu",
+        "periode": "pertama",
+        "jumlahLW": 4,
+        "jumlahLT": 1,
+        "nipMember1": "196106241995021001,1",
+        "nipMember2": "196705281999021002,1",
+        "nipMember3": null,
+        "nipMember4": null,
+        "lw1": "Laporan akhir",
+        "lw2": "Jurnal PkM ber-ISSN atau prosiding seminar nasional atau publikasi pada \r\nmedia massa cetak dan online",
+        "lws1": "Lengkap dan sesuai format",
+        "lws2": "Minimal Accepted",
+        "lws3": "Tersedia",
+        "lt1": "SN",
+        "lts1": "Selesai",
+        "anggaran": 10000000,
+        "jurusan": "TE",
+        "status": "berhasil",
+        "jumlahmitra": 1,
+        "namamitra1": null,
+        "namamitra2": null,
+        "alamatmitra2": null,
+        "alamatmitra1": null,
+        "revisi": "yes",
+        "tanggalSubmit": "2023-03-02T00:00:00.000Z",
+        "verifikasi": null,
+        "kinerja": null,
+        "komkapus": "Semangat dan terus berkarya untuk POLIMDO"
     },
     {
-        "nip": "000000000828077201",
-        "username": "Yelly Sjenny Paendong, SE. MM. Ak. CA",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-IV Keuangan"
-    },
-    {
-        "nip": "000000000916087802",
-        "username": "Steve W.M Supit, ST, M.Eng, Ph.D",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Sipil"
-    },
-    {
-        "nip": "000000008853440017",
-        "username": "Walangitan Melania Rut, S.Pd., M.Pd.",
-        "kategori": "DB",
+        "id": "64017d3888eab",
+        "judul": "PELATIHAN BAHASA INGGRIS MELALUI PENERAPAN PEMBELAJARAN BERBASIS ICT (INFORMATION AND COMMUNICATION TECHNOLOGY) BAGI PERANGKAT KELURAHAN DI KELURAHAN KAIRAGI DUA, KECAMATAN MAPANGET, KOTA MANADO",
+        "skema": "PPIpM",
+        "abstrak": "Pelatihan bahasa Inggris dilakukan sebagai\r\nwujud pelaksanaan PkM dengan tujuan memberikan pengetahuan\r\nbahasa Inggris dan pengembangan kemampuan berbahasa Inggris\r\nbagi perangkat kelurahan. Mitra yang menjadi sasaran dalam PkM\r\nini, yakni perangkat kelurahan di Kelurahan kairagi dua kecamatan Mapanget, Kota Manado\r\nyang terdiri dari Lurah serta pegawai kelurahan termasuk kepala-kepala lingkungan.\r\nPermasalahan-permasalahan yang ditemukan antara lain : 1) Takut\r\nsalah sehingga tidak berani berbicara dalam bahasa Inggris, 2)\r\nKurangnya metode dalam belajar bahasa Inggris, 3) Kurangnya\r\npraktek berbahasa Inggris, 4) Terbatasnya pelatihan-pelatihan tentang\r\nbahasa Inggris. Untuk menjawab masalah-masalah\r\ntersebut, solusi yang dilakukan yakni dengan mengadakan sosialisasi\r\ndan pelatihan bagi perangkat kelurahan. Pelaksanaan kegiatan PKM\r\nini secara garis besar melalui tahapan-tahapan berikut : 1) Pertemuan\r\nawal dan sosialisasi program, 2) Pre-test, 3) Pelatihan bahasa Inggris,\r\n4) Post-test dan evaluasi hasil kegiatan, 5) Pendampingan terhadap\r\nmitra PkM sehingga diharapkan setelah mengikuti pelatihan ini,\r\nkemampuan berbahasa Inggris mereka akan meningkat dan\r\nberdampak positif pada tugas dan kualitas pelayanan mereka sebagai\r\nperangkat kelurahan di kelurahan kairagi dua Kecamatan Mapanget, Kota Manado. \r\n\r\nKata Kunci : Program Kemitraan Masyarakat, Pelatihan Bahasa Inggris,\r\nPerangkat Kelurahan.",
+        "nipKetua": "197003172005011001",
+        "image": "64017d3888eab.pdf",
+        "jumlahMember": 3,
+        "durasi": "satu",
+        "periode": "pertama",
+        "jumlahLW": 4,
+        "jumlahLT": 1,
+        "nipMember1": "196109111989032001,1",
+        "nipMember2": "199011172022032004,1",
+        "nipMember3": "199401182022032009,1",
+        "nipMember4": null,
+        "lw1": "Laporan akhir",
+        "lw2": "Jurnal PkM ber-ISSN atau prosiding seminar nasional atau publikasi pada \r\nmedia massa cetak dan online",
+        "lws1": "Lengkap dan sesuai format",
+        "lws2": "Minimal Accepted",
+        "lws3": "Tersedia",
+        "lt1": "HKI",
+        "lts1": "Terdaftar",
+        "anggaran": 10000000,
         "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "D-III Administrasi Bisnis"
+        "status": "berhasil",
+        "jumlahmitra": 1,
+        "namamitra1": null,
+        "namamitra2": null,
+        "alamatmitra2": null,
+        "alamatmitra1": null,
+        "revisi": "yes",
+        "tanggalSubmit": "2023-03-03T00:00:00.000Z",
+        "verifikasi": null,
+        "kinerja": null,
+        "komkapus": "Semangat dan terus berkarya untuk POLIMDO"
     },
     {
-        "nip": "000000008892440017",
-        "username": "Inka Marry Steviarty Tumengkol, S. Ikom, MM",
-        "kategori": "DB",
+        "id": "640184fb6cdb7",
+        "judul": "Workshop Instalasi PLTS Off Grid System Dengan Pendekatan Business Model Innovation Pada Warga Kelurahan Meras, Kota Manado, Propinsi Sulawesi Utara",
+        "skema": "PPIpM",
+        "abstrak": "Pemerintah terus mendorong masyarakat Indonesia untuk memanfaatkan Energi bersih. Salah satu pemanfaatan energi bersih adalah dengan memanfaatkan energi matahari menjadi energi listrik. Pemanfaatan energi matahari menjadi energi listrik dapat dengan menggunakan panel surya dengan sistem Pembangkit Listrik Tenaga Surya (PLTS) dengan sistem off grid. \r\n\r\nKelurahan Meras berlokasi diarea kota Manado yang secara potensi memiliki paparan energi surya yang baik. Selain itu terdapat fasilitas umum seperti Gedung gereja, Kantor kelurahan, Halte dan fasilitas lainnya yang membutuhkan energi listrik. Fasilitas-fasilitas ini berpotensi besar untuk menggunakan sistem PLTS dalam pemanfaatan energi listrik. Tantangannya adalah, masyarakat kelurahan Meras belum begitu familiar dengan sistem PLTS yang menggunakan Panel Surya.\r\n\r\nPengabdian ini bertujuan untuk memberikan pengetahuan tentang pemanfaatan energi surya melalui instalasi PLTS dengan sistem off grid. Workshop akan menggunakan Alat Praktek PLTS sebagai sarana pelatihan bagi masyarakat. Melalui alat ini, pengetahuan akan pemanfaatan energi surya dapat berkembang. Daya minat pemanfaatan energi bersih diprediksi akan tumbuh Ketika ada keuntungan secara finansial juga dalam manajemen penggunaan energi. Kegiatan pelatihan akan berupa workshop instalasi PLTS dan dintegrasikan dengan analisis keekonomian dalam pemanfaatan energi bersih.",
+        "nipKetua": "198709082018031002",
+        "image": "640184fb6cdb7.pdf",
+        "jumlahMember": 1,
+        "durasi": "satu",
+        "periode": "pertama",
+        "jumlahLW": 4,
+        "jumlahLT": 1,
+        "nipMember1": "196901301993031003,1",
+        "nipMember2": null,
+        "nipMember3": null,
+        "nipMember4": null,
+        "lw1": "Laporan akhir",
+        "lw2": "Jurnal PkM ber-ISSN atau prosiding seminar nasional atau publikasi pada \r\nmedia massa cetak dan online",
+        "lws1": "Lengkap dan sesuai format",
+        "lws2": "Minimal Accepted",
+        "lws3": "Tersedia",
+        "lt1": "Video",
+        "lts1": "utube",
+        "anggaran": 10000000,
+        "jurusan": "TE",
+        "status": "berhasil",
+        "jumlahmitra": 1,
+        "namamitra1": null,
+        "namamitra2": null,
+        "alamatmitra2": null,
+        "alamatmitra1": null,
+        "revisi": "yes",
+        "tanggalSubmit": "2023-03-03T00:00:00.000Z",
+        "verifikasi": null,
+        "kinerja": null,
+        "komkapus": "Semangat dan terus berkarya untuk POLIMDO"
+    },
+    {
+        "id": "6401925eb732b",
+        "judul": "Pelatihan TOEIC bagi tenaga pendidik  sebagai upaya peningkatan profesionalitas di SMA Negeri 8 Manado",
+        "skema": "PPIpM",
+        "abstrak": "Penerapan IPTEK pada masyarakat merupakan istilah dalam pengabdian kepada masyarakat yang merupakan salah satu bentuk pelaksanaan Tridarma perguruan tinggi yang wajib dilakukan oleh setiap tenaga pendidik. Pelatihan TOEIC dilakukan sebagai wujud Pelaksanaan PIM dengan tujuan memberikan pengetahuan bahasa inggris dan pengembangan kemampuan bahasa inggris melalui tes bagi tenaga pendidik. Mitra yang menjadi sasaran dalam PIM ini, yakni tenaga pendidik di SMA Negeri 8 Manado. Permasalahan-permasalahan yang di temukan antara lain : 1) \r\nkurangnya keterampilan berbahasa Inggris.  2) kurangnya pelatihan-pelatihan tentang bahasa inggris, 3) Belum pernah mengikuti tes toeic.  Untuk menjawab masalah-masalah tersebut, solusi yang dilakukan yakni dengan mengadakan sosialisasi dan pelatihan bagi tenaga pendidik di SMA Negeri 8 Manado. Pelaksanaan kegiatan PIM ini secara garis besar melalui tahapan-tahanpan berikut: 1) pertemuan awal dan sosialisasi program, 2) pre-test, 3) pelatihan toeic, 4) post-tes dan evaluasi hasil kegiatan, 5) pendampingan terhadap mitra PIM sehingga diharapkan setelah mengikuti pelatihan ini, tingkat profesionalitas tenaga pendidik akan meningkat dan berdampak positif pada tugas dan kualitas pengajaran mereka sebagai tenaga pendidik di SMA Negeri 8 Manado.\r\n\r\nKata Kunci : Program penerapan IPTEK pada masyarakat, pelatihan TOEIC, Tenaga pendidik",
+        "nipKetua": "000000000001067512",
+        "image": "6401925eb732b.pdf",
+        "jumlahMember": 2,
+        "durasi": "satu",
+        "periode": "pertama",
+        "jumlahLW": 4,
+        "jumlahLT": 1,
+        "nipMember1": "197012172008012016,1",
+        "nipMember2": "198803222022032003,1",
+        "nipMember3": null,
+        "nipMember4": null,
+        "lw1": "Laporan akhir",
+        "lw2": "Jurnal PkM ber-ISSN atau prosiding seminar nasional atau publikasi pada \r\nmedia massa cetak dan online",
+        "lws1": "Lengkap dan sesuai format",
+        "lws2": "Minimal Accepted",
+        "lws3": "Tersedia",
+        "lt1": "HKI",
+        "lts1": "Terdaftar",
+        "anggaran": 10000000,
         "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "Administrasi Bisnis"
+        "status": "gagal",
+        "jumlahmitra": 1,
+        "namamitra1": null,
+        "namamitra2": null,
+        "alamatmitra2": null,
+        "alamatmitra1": null,
+        "revisi": "no",
+        "tanggalSubmit": "2023-03-03T00:00:00.000Z",
+        "verifikasi": null,
+        "kinerja": null,
+        "komkapus": "Semangat dan terus berkarya untuk POLIMDO"
     },
     {
-        "nip": "00010",
-        "username": "DR.Diane Tangian,SH,MSi",
-        "kategori": "DT",
-        "jurusan": "P",
-        "kelamin": null,
-        "prodi": null
+        "id": "64019ea3d2701",
+        "judul": "Perhitungan Harga Pokok Produksi dan Penyajiannya pada Laporan Keuangan UMKM Produksi Mebel di Desa Leilem",
+        "skema": "PPIpM",
+        "abstrak": "Berdasarkan data Kementerian Koperasi, Usaha Kecil, dan Menengah (KUKM), sebanyak 99,99% pelaku usaha di Indonesia merupakan usaha UMKM. Hal ini menumbuhkan adanya persaingan yang tinggi diantara pelaku usaha UMKM dan mereka dituntut untuk menyediakan produk atau jasa dengan harga kompetitif dan kualitas yang baik. Salah satu faktor yang mempengaruhi untuk menentukan harga bersaing bagi pelaku usaha dibidang produksi/manufaktur adalah penentuan harga pokok produksi. Harga pokok produksi menjadi salah satu faktor penentu harga jual. Perhitungan harga pokok produksi secara tepat menjadi faktor krusial bagi UMKM yang bergerak dibidang produksi. Kesalahan dalam perhitungan harga pokok tersebut berimplikasi pada penentuan harga jual produk dan penyajiannya dalam laporan keuangan. \r\nUMKM produksi meubel yang ada di desa Leilem tergolong kategori usaha mikro dan kecil berdasarkan omzet penjualannya. Mereka memiliki modal usaha yang bersumber dari pemilik usaha. Usaha produksinya dikerjakan oleh pemilik usaha bersama anggota keluarga dan masyarakat  sekitar.  Produk yang dihasilkan seperti kursi, meja, lemari, dan perabotan lainnya. Berdasarkan hasil wawancara awal dengan pemilik usaha, ditemukan bahwa secara umum UMKM di desa Leilem belum menghitung harga pokok produksi (HPP) secara tepat. Mereka tidak memperhitungkan biaya overhead dan upah tenaga kerja bila menggunakan anggota keluarga. Ketidaktepatan perhitungan harga pokok tersebut mengakibatkan ketidaktepatan penentuan harga jual. Mereka tidak melakukan perhitungan secara mandiri dan menentukan harga jual mebel dengan mengikuti harga pasar yang ada karena pemilik usaha tidak memahami dan tidak memiliki pengetahuan tentang hal tersebut. Oleh sebab itu kegiatan PIM ini difokuskan pada kelompok UMKM produksi mebel yang ada di desa Leilem. \r\nKegiatan ini dilaksanakan mulai dari bulan Februari sampai November tahun 2022. Adapun tahap-tahap kegiatan PIM ini adalah survei awal (analisis situasi dan penentuan mitra), penetapan permasalahan mitra, solusi permasalahan dan rencana target luaran serta metode pendekatan kegiatan, pelaksanaan sosialisasi dan edukasi, evaluasi pelaksanaan kegiatan PKM, penyusunan laporan kegiatan dan publikasi ilmiah serta pencapaian luaran lainnya. Pelaksanaan kegiatan PIM ini menggunakan metode sosialisasi dan edukasi pengetahuan akuntansi khususnya HPP dan elemen-elemennya dalam laporan keuangan. Setelah kegiatan ini dilaksanakan, diharapkan pengetahuan dan ketrampilan akuntansi dari mitra akan meningkat sehingga mitra dapat memahami elemen-elemen HPP dalam laporan keuangan dan menghitung HPPnya. Dengan adanya peningkatan pengetahuan dan ketrampilan dari mitra maka salah satu luaran dari kegiatan ini tercapai. Rencana target luaran lainnya adalah menyusun laporan akhir, publikasi ilmiah pada jurnal Umbanua, membuat psoter digital, presentasi pada seminar hasil PKM Polimdo, dan membuat video untuk publikasi pada channel youtube P3M Polimdo.\r\n\r\n",
+        "nipKetua": "197002051998022002",
+        "image": "64019ea3d2701.pdf",
+        "jumlahMember": 1,
+        "durasi": "satu",
+        "periode": "pertama",
+        "jumlahLW": 4,
+        "jumlahLT": 1,
+        "nipMember1": "196012121988112001,1",
+        "nipMember2": null,
+        "nipMember3": null,
+        "nipMember4": null,
+        "lw1": "Laporan akhir",
+        "lw2": "Jurnal PkM ber-ISSN atau prosiding seminar nasional atau publikasi pada \r\nmedia massa cetak dan online",
+        "lws1": "Lengkap dan sesuai format",
+        "lws2": "Minimal Accepted",
+        "lws3": "Tersedia",
+        "lt1": "SN",
+        "lts1": "Selesai",
+        "anggaran": 10000000,
+        "jurusan": "AK",
+        "status": "gagal",
+        "jumlahmitra": 1,
+        "namamitra1": null,
+        "namamitra2": null,
+        "alamatmitra2": null,
+        "alamatmitra1": null,
+        "revisi": "no",
+        "tanggalSubmit": "2023-03-03T00:00:00.000Z",
+        "verifikasi": null,
+        "kinerja": null,
+        "komkapus": "Semangat dan terus berkarya untuk POLIMDO"
     },
     {
-        "nip": "0008109207",
-        "username": "Oldi Malfri Lambonan, S.Pd, M.Pd",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Listrik"
-    },
-    {
-        "nip": "0009099206",
-        "username": "Firmansyah Reskal Motulo, S,Pd., M.Mat",
-        "kategori": "DB",
-        "jurusan": "TM",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Mesin Perawatan dan Perbaikan"
-    },
-    {
-        "nip": "0011076205 ",
-        "username": "Ir. Julius Everhart Tenda, MT   ",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-IV Konstruksi Bangunan Gedung"
-    },
-    {
-        "nip": "0013119204",
-        "username": "Edryl Ponggohong SST., MSi",
-        "kategori": "DB",
+        "id": "640462ebf19e6",
+        "judul": "PELATIHAN PEMBUATAN PRODUK TURUNAN KELAPA  “NATA DE COCO” PADA KELOMPOK PKK KELURAHAN MALALAYANG DUA, KOTA MANADO,  PROPINSI SULAWESI UTARA  ",
+        "skema": "PPIpM",
+        "abstrak": "Kebijakan Pengabdian kepada Masyarakat (PkM) institusi mengacu pada Rencana Strategis (Renstra) Politeknik Negeri Manado periode 2021 – 2024 yang mengedepankan tiga bidang unggulan, antara lain pemanfaat sumber daya alam dan penguatan ekonomi masyarakat melalui pengembangan sumber daya manusia. Berdasarkan bidang unggulan dari Renstra institusi tersebut, maka tema pengabdian kepada masyarakat kali ini adalah “Pelatihan Pembuatan Produk Turunan Kelapa “Nata de Coco” pada Kelompok PKK Kelurahan Malalayang Dua, Kecamatan Malalayang, Kota Manado, Provinsi Sulawesi Utara” \r\nTujuan dari pelaksanaan pengabdian kepada masyarakat ini adalah untuk memberikan pelatihan kepada kelompok PKK yang ada di kelurahan Malalayang Dua tentang pembuatan produk turunan kelapa  dan kegiatan ini bekerja sama dengan  Balai Penelitian Kelapa dan Tanaman Palma lain (BalitPalma). Dengan demikian, diharapkan ibu-ibu yang tergabung dalam kelompok PKK tersebut dapat memanfaatkan sumber daya alam yang ada disekitar dalam menunjang pendapatan serta meningkatkan perekonomian keluarga. Tujuan kegiatan ini juga mendukung bidang unggulan lain dari rencana strategis institusi, yaitu penguatan ekonomi masyarakat melalui pengembangan sumber daya manusia.\r\nMetode pelaksanaan kegiatan ini adalah: (1) Balai Penelitian Kelapa dan Tanaman Palma lain (BalitPalma) memberikan pelatihan tentang pembuatan produk olahan yang berasal dari kelapa dan disertai dengan demonstrasi pembuatannya, (2) Ibu-ibu PKK turut serta mempraktekkan pembuatan nata de coco tersebut dan dilakukan tanya jawab jika ada hal-hal yang belum dipahami. \r\nTarget yang diharapkan dari kegiatan ini adalah kelompok PKK yang ada di kelurahan Malalayang Dua akan memiliki tambahan pengetahuan dan ketrampilan dalam mengelola produk turunan kelapa dengan membuat nata de coco sehingga dapat meningkatkan pendapatan keluarga. Luaran dari  kegiatan pengabdian kepada masyarakat ini berupa Jurnal Nasional ber ISSN, publikasi kegiatan melalui media massa, poster digital serta video kegiatan dan HKI.\r\n \r\n",
+        "nipKetua": null,
+        "image": "Kosong",
+        "jumlahMember": 2,
+        "durasi": "satu",
+        "periode": "pertama",
+        "jumlahLW": 4,
+        "jumlahLT": 0,
+        "nipMember1": "197001092002121001,0",
+        "nipMember2": "196703101994032002,0",
+        "nipMember3": null,
+        "nipMember4": null,
+        "lw1": "Laporan akhir",
+        "lw2": "Jurnal PkM ber-ISSN atau prosiding seminar nasional atau publikasi pada \r\nmedia massa cetak dan online",
+        "lws1": "Lengkap dan sesuai format",
+        "lws2": "Minimal Accepted",
+        "lws3": "Tersedia",
+        "lt1": null,
+        "lts1": null,
+        "anggaran": 10000000,
         "jurusan": "AB",
-        "kelamin": "P",
-        "prodi": "D-IV Management Bisnis"
-    },
-    {
-        "nip": "0017129206",
-        "username": "Romana Octavia Debora Pessak, S.Th, S.H, M.H",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "D-IV Management Bisnis"
-    },
-    {
-        "nip": "0021099006",
-        "username": "Roby Stevi Lumbu, SST., MT.",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Informatika"
-    },
-    {
-        "nip": "0021108809",
-        "username": "Lidya Anggiline Maramis, SE., MSA., Ak",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-IV Keuangan"
-    },
-    {
-        "nip": "0023098107",
-        "username": "Roby Stevi Lumbu,SST.,MT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Informatika"
-    },
-    {
-        "nip": "0024088804",
-        "username": "Fresi Beatrix Lendo, SE.,MBA",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "D-IV Management Bisnis"
-    },
-    {
-        "nip": "0025039005",
-        "username": "Irvans Tiwatu, SST.,MSi",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "P",
-        "prodi": "D-III Administrasi Bisnis"
-    },
-    {
-        "nip": "0026048912",
-        "username": "Maruto Swatara Loegimin, SST, M.Tr.T",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "-"
-    },
-    {
-        "nip": "002809790400000000",
-        "username": "Sicilia Selvy Panelewen, SE., MM",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-IV Keuangan"
-    },
-    {
-        "nip": "0030019106",
-        "username": "Januar Valentino Samehe, SE, MM",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "P",
-        "prodi": "D-IV Management Bisnis"
-    },
-    {
-        "nip": "007171065902840002",
-        "username": "Dian Puspita Sari, ST.MArs",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "W",
-        "prodi": "D-IV Konstruksi Bangunan Gedung"
-    },
-    {
-        "nip": "10101",
-        "username": "Maya",
-        "kategori": "DB",
-        "jurusan": "TM",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "111111110008109207",
-        "username": "Oldi Malfri Lambonan",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "111111110019029403",
-        "username": "Fitria Claudya Lahinta,SST.,MT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "W",
-        "prodi": "D-IV Teknik Informatika"
-    },
-    {
-        "nip": "12345",
-        "username": "sulthan",
-        "kategori": null,
-        "jurusan": null,
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "1234567890",
-        "username": "john",
-        "kategori": "B",
-        "jurusan": "TS",
-        "kelamin": "Laki-laki",
-        "prodi": "D-IV TS"
-    },
-    {
-        "nip": "1234567891",
-        "username": "indri",
-        "kategori": "A",
-        "jurusan": "Teknik Elektro",
-        "kelamin": "cewe",
-        "prodi": "S1 Teknik Elektro"
-    },
-    {
-        "nip": "18024002",
-        "username": "Natasya Pua",
-        "kategori": "DT",
-        "jurusan": "TE",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "19012060",
-        "username": "Jewel D. Punuindoong",
-        "kategori": "DT",
-        "jurusan": "TS",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "19013013",
-        "username": "Jeanet Christine Tahulending",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "19043047",
-        "username": "Malage",
-        "kategori": "DT",
-        "jurusan": "AK",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "19043057",
-        "username": "Carmenita Lelemboto",
-        "kategori": "DT",
-        "jurusan": "AK",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "19043130",
-        "username": "Berliana Putri Rau",
-        "kategori": "DT",
-        "jurusan": "AK",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "195504011988111001",
-        "username": "Drs. Robert Daniel Towoliu, MSc",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": "P",
-        "prodi": "D-IV Management Hotel"
-    },
-    {
-        "nip": "195609251989102001",
-        "username": "Elvie Weku, SE.,M.Si",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "1956110719990031001",
-        "username": "Reyners Tenges,SE.,MSi",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "195611131993031001",
-        "username": "Herry Makapedua,SST.,MT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Listrik"
-    },
-    {
-        "nip": "195706041989031001",
-        "username": "Ir.Jemmy J.Rangan,MT",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "195706261988031002",
-        "username": "Eddi Dosoputranto, ST., M. Eng",
-        "kategori": "DB",
-        "jurusan": "TM",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Mesin Perawatan dan Perbaikan"
-    },
-    {
-        "nip": "195711071988031003",
-        "username": "Ir.Enteng Jolly Saerang.,MT",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "195712311989032001",
-        "username": "Roosje Awuy, SE.MAP",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "195801051990091001",
-        "username": "Ir.Leonard Tawalujan.,MT",
-        "kategori": "DT",
-        "jurusan": "TM",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "195801071988032001",
-        "username": "Ir. Syuultje Dowa, MT",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "195804281988031001",
-        "username": "Benny Loegimin, ST., MT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "195806041989032002",
-        "username": "Jeane Maramis",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "195808081990032001",
-        "username": "Sonya Rumondor, SE.,M.Si",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-III Akuntansi"
-    },
-    {
-        "nip": "195810311994031001",
-        "username": "Ir. Charles Henry Luther Sulangi, M.M.T.",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Sipil"
-    },
-    {
-        "nip": "195811171988111001",
-        "username": "Rudy Wowiling,SE.,M.Si",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "195812241990031001",
-        "username": "Ir.Yohanis Sampe Rompon,MT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "195901121988112001",
-        "username": "Anie Valora Mundung",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D IVKeuangan  "
-    },
-    {
-        "nip": "195906261995011001",
-        "username": "Nasir A. Katong, SH., MH",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Sipil"
-    },
-    {
-        "nip": "195908011990031001",
-        "username": "Drs. Agustinus Lumettu, MAP",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": "P",
-        "prodi": "D-III Pariwisata"
-    },
-    {
-        "nip": "195910031989031002",
-        "username": "Ir. Donny Taju, MT",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Sipil"
-    },
-    {
-        "nip": "195911091993032000",
-        "username": "Dra.Grace Hellen Pontoh, M.Hum",
-        "kategori": "DT",
-        "jurusan": "TS",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "195911091993032001",
-        "username": "Dra. Grace H. Pontoh, M.Hum",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "W",
-        "prodi": "D-IV Teknik Listrik"
-    },
-    {
-        "nip": "195911101993031002",
-        "username": "Ir.Ever N.Slat.,MT",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-IV Konstruksi Bangunan Gedung"
-    },
-    {
-        "nip": "196002271990031002",
-        "username": "Ir. Nikita Sajangbati, MT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "196007241990111001",
-        "username": "Ir. Johannes Munintja Mawa , MT.",
-        "kategori": "DB",
-        "jurusan": "TM",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Mesin Perawatan dan Perbaikan"
-    },
-    {
-        "nip": "196007301999031001",
-        "username": "Arthur Lumataw",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "196011171988032002",
-        "username": "Margaretha Nova Warokka,SE.,MBA",
-        "kategori": "DT",
-        "jurusan": "P",
-        "kelamin": "W",
-        "prodi": "D-III Usaha Perjalanan Wisata"
-    },
-    {
-        "nip": "196012121988112001",
-        "username": "Dra Revleen Kaparang M.Pd",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-III Akuntansi"
-    },
-    {
-        "nip": "196101241990111001",
-        "username": "Djibrael Djawa,SE,.M.Int,Hotl,Manag",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "D-IV Management Bisnis"
-    },
-    {
-        "nip": "196102081988111001",
-        "username": "Laurens Ponggohong,SE.,MSi",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "P",
-        "prodi": "D-IV Management Bisnis"
-    },
-    {
-        "nip": "196105081990031001",
-        "username": "Frans Luntungan, ST., MT",
-        "kategori": "DT",
-        "jurusan": "TM",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Mesin Perawatan dan Perbaikan"
-    },
-    {
-        "nip": "196105181999031001",
-        "username": "Mex Usmeny Pesik, SE, MM",
-        "kategori": "DT",
-        "jurusan": "P",
-        "kelamin": "P",
-        "prodi": "D-III Ekosistem Bawah Laut"
-    },
-    {
-        "nip": "196106011990031001",
-        "username": "Ir. Lamber M,MT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Komputer"
-    },
-    {
-        "nip": "196106011990031002",
-        "username": "Ir. Jusuf Luther Mappadang, M.T.",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Komputer"
-    },
-    {
-        "nip": "196106241995021001",
-        "username": "Tony Jemy Wungkana,ST.,MT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "W",
-        "prodi": "D-IV Teknik Listrik"
-    },
-    {
-        "nip": "196107211989031002",
-        "username": "OPA MUSTOPA,SE,MSi",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "P",
-        "prodi": "D-IV  Akuntansi"
-    },
-    {
-        "nip": "196108181994031002",
-        "username": "BARNO SUNGKOWO,SE.,MM.,Ak,CA",
-        "kategori": "DT",
-        "jurusan": "AK",
-        "kelamin": "P",
-        "prodi": "D-III Akuntansi"
-    },
-    {
-        "nip": "196109111989032001",
-        "username": "Dra.Selvie Ratna Ivone Mandang, MM",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "D-III Administrasi Bisnis"
-    },
-    {
-        "nip": "196109111996011001",
-        "username": "Ir.John Theodorus Harahap,M.T",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "196109251993031001",
-        "username": "Jufry Rompas, SE.,M.Si",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-IV Keuangan"
-    },
-    {
-        "nip": "196109271988112001",
-        "username": "Silvy Truly Sambuaga, SE.,MSi",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "D-III Administrasi Bisnis"
-    },
-    {
-        "nip": "196202151993031002",
-        "username": "Bambang Widodo",
-        "kategori": "DT",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Jalan dan Jembatan"
-    },
-    {
-        "nip": "196202231994031003",
-        "username": "Ir. Wellem Toad, MT",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Sipil"
-    },
-    {
-        "nip": "196202241990031003",
-        "username": "Ventje F. Aror, SST., MT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Listrik"
-    },
-    {
-        "nip": "196203111990032001",
-        "username": "Dra. Diane O.Rondonuwu, MM",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": "W",
-        "prodi": "D-IV Management Hotel"
-    },
-    {
-        "nip": "196204121997021001",
-        "username": "Tirone I. Tanod, ST, MM.",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Komputer"
-    },
-    {
-        "nip": "196207151990111001",
-        "username": "Johanes Christofel Santie",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "P",
-        "prodi": "D-IV Keuangan"
-    },
-    {
-        "nip": "196208011988032003",
-        "username": "Dr.Dra.Rolina Emmy Manggopa,M.Pd",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-IV Keuangan"
-    },
-    {
-        "nip": "196208101989031002",
-        "username": "Tonny Rasuh",
-        "kategori": "DB",
-        "jurusan": "TM",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Mesin Perawatan dan Perbaikan"
-    },
-    {
-        "nip": "196210181993031001",
-        "username": "Ir. Franky Riccardo Tombokan, MEng",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Sipil"
-    },
-    {
-        "nip": "196210231993031001",
-        "username": "Ir.Barakati Karel Manginsihi,MT",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Sipil"
-    },
-    {
-        "nip": "196211091990111001",
-        "username": "Novy J. Kasenda, SE.,M.Si",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "P",
-        "prodi": "D-IV Keuangan"
-    },
-    {
-        "nip": "196211121991031003",
-        "username": "Noldie Kondoj, ST, MT",
-        "kategori": "DT",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Sipil"
-    },
-    {
-        "nip": "196211151993032002",
-        "username": "Dr. Ir. Jeanely Rangkang, M.Eng.Sc.",
-        "kategori": "DT",
-        "jurusan": "TS",
-        "kelamin": "W",
-        "prodi": "D-IV Teknik Jalan dan Jembatan"
-    },
-    {
-        "nip": "196211231988031003",
-        "username": "Niko Pinangkaan, ST., MT",
-        "kategori": "DT",
-        "jurusan": "TM",
-        "kelamin": "P",
-        "prodi": "DIV Sarjana Terapan Teknologi Rekayasa Mekatronika"
-    },
-    {
-        "nip": "196211241990031003",
-        "username": "Herotje Siwi,ST.,MT",
-        "kategori": "DT",
-        "jurusan": "TM",
-        "kelamin": "W",
-        "prodi": "D-III Teknik Mesin"
-    },
-    {
-        "nip": "196212121990112001",
-        "username": "Elisabeth Deisy Malonda",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-III Akuntansi"
-    },
-    {
-        "nip": "196212151992031001",
-        "username": "Radjab Djamali,SE.,MSi",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": "P",
-        "prodi": "D-III Usaha Perjalanan Wisata"
-    },
-    {
-        "nip": "196212251994031001",
-        "username": "Ir. Chris Hombokau, MT, IPM",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Sipil"
-    },
-    {
-        "nip": "196301021992032001",
-        "username": "Shane Anneke Pangemanan, SE.,MSi",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-IV Akuntansi Keuangan"
-    },
-    {
-        "nip": "196301091989032001",
-        "username": "Dr. Daisy Iriany Erny Sundah, SE.,M..Ed.M",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "196302151990031002",
-        "username": "Ventje Berty Slat, ST, MT",
-        "kategori": "DT",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-IV Konstruksi Bangunan Gedung"
-    },
-    {
-        "nip": "196303031991031004",
-        "username": "Priyono SST MT",
-        "kategori": "DB",
-        "jurusan": "TM",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Mesin"
-    },
-    {
-        "nip": "196305111992031001",
-        "username": "Johan Pongoh, SST., MT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Listrik"
-    },
-    {
-        "nip": "196307301993032001",
-        "username": "Lietje Lumatauw,STh,M.Si",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "D-IV Management Bisnis"
-    },
-    {
-        "nip": "196308271989032003",
-        "username": "Dr. Selfy Manueke,SE.,MHRMgt&IR",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "D-III Administrasi Bisnis"
-    },
-    {
-        "nip": "196309011991031001",
-        "username": "Nixon Sondakh,SE,M.Si",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-IV Akuntansi Perpajakan"
-    },
-    {
-        "nip": "196309161994032001",
-        "username": "SINTJE PANTJI ALOUW",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-IV Akuntansi Perpajakan"
-    },
-    {
-        "nip": "196309241994031001",
-        "username": "Jeffry Otniel Rengku.,SE.,MM.,Ak.,CA",
-        "kategori": "DT",
-        "jurusan": "AK",
-        "kelamin": "P",
-        "prodi": "D-IV Keuangan"
-    },
-    {
-        "nip": "196310021990032001",
-        "username": "Dr.Mikke R. Marentek,SE.,MSi",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "D-III Management Pemasaran"
-    },
-    {
-        "nip": "196311111992031001",
-        "username": "Moody Noldy Tumembow, ST.,  MT.",
-        "kategori": "DT",
-        "jurusan": "TM",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Mesin Perawatan dan Perbaikan"
-    },
-    {
-        "nip": "196312121988031003",
-        "username": "Ismail Mokodompit, SE, Msi",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "P",
-        "prodi": "D-III Akuntansi"
-    },
-    {
-        "nip": "196312131994032001",
-        "username": "Meiske Manopo, SE.MSi",
-        "kategori": "DT",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "Manajemen Bisnis D-IV"
-    },
-    {
-        "nip": "196312271998031001",
-        "username": "Antonius P. G. Manginsela, ST.,MM.Kom",
-        "kategori": "DT",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Komputer"
-    },
-    {
-        "nip": "196312301989032001",
-        "username": "Susy Amelia Marentek, SE. MSA",
-        "kategori": "DT",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-IV Keuangan"
-    },
-    {
-        "nip": "196402291990031002",
-        "username": "Fransiscus Josep Tulung",
-        "kategori": "DB",
-        "jurusan": "TM",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Mesin Perawatan dan Perbaikan"
-    },
-    {
-        "nip": "196403151995121001",
-        "username": "Paul Maarthen Rumagit, ST., MT.",
-        "kategori": "DB",
-        "jurusan": "TM",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Mesin Produksi dan Perawatan"
-    },
-    {
-        "nip": "196405171990032001",
-        "username": "Farida Indria Sanly Wakidin. SE,M.Pd",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-IV Keuangan"
-    },
-    {
-        "nip": "196405261998031001",
-        "username": "Johan F. Makal, SST., MT",
-        "kategori": "DT",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Listrik"
-    },
-    {
-        "nip": "196406291990031007",
-        "username": "Samsu Tuwongkesong",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Listrik"
-    },
-    {
-        "nip": "196407261993032001",
-        "username": "Grace Ropa SE., MSi",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-IV  Pajak"
-    },
-    {
-        "nip": "196408021994031002",
-        "username": "Muhmmad Kapa Bakary",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "P",
-        "prodi": "D-III Administrasi Bisnis"
-    },
-    {
-        "nip": "196408172000121001",
-        "username": "Dr. Agustinus Walansendow,SE.,MSi",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "P",
-        "prodi": "Manajemen Bisnis"
-    },
-    {
-        "nip": "196410061992031005",
-        "username": "Sukandar Sawidin, ST.,MT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Listrik"
-    },
-    {
-        "nip": "196410141993032001",
-        "username": "Olga Melo, S.ST.,M.T",
-        "kategori": "DT",
-        "jurusan": "TE",
-        "kelamin": "W",
-        "prodi": "D-IV Teknik Informatika"
-    },
-    {
-        "nip": "196411031992031002",
-        "username": "Arnold Rondonuwu, S.ST.,M.Pd",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Listrik"
-    },
-    {
-        "nip": "196411141990111002",
-        "username": "Vekky Supit,SE.,M.Si",
-        "kategori": "DT",
-        "jurusan": "AB",
-        "kelamin": "P",
-        "prodi": "D-III Management Pemasaran"
-    },
-    {
-        "nip": "196412111990032001",
-        "username": "Ivoletti Merlina Walukow,SE.,MSi",
-        "kategori": "DT",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-IV Akuntansi Keuangan"
-    },
-    {
-        "nip": "196412131991032001",
-        "username": "Dra. Maryke Alelo, MBA",
-        "kategori": "DT",
-        "jurusan": "P",
-        "kelamin": "W",
-        "prodi": "D-IV Management Hotel"
-    },
-    {
-        "nip": "196412161991032001",
-        "username": "Deitje Sofie Pongoh,ST.MPd",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "W",
-        "prodi": "D-III Teknik Listrik"
-    },
-    {
-        "nip": "196412201993031001",
-        "username": "Denny I. Y. Rompas",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "196412211999032001",
-        "username": "Josephin Sundah, SST., MT",
-        "kategori": "DT",
-        "jurusan": "TE",
-        "kelamin": "W",
-        "prodi": "D-IV Teknik Listrik"
-    },
-    {
-        "nip": "196501161990031002",
-        "username": "Sudarno, ST.,MT",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Sipil"
-    },
-    {
-        "nip": "196501161990112001",
-        "username": "Iyam L. Dua,SE., M.Si",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "D-III Administrasi Bisnis"
-    },
-    {
-        "nip": "196501211990031001",
-        "username": "Jacob T. S. Makapedua",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "P",
-        "prodi": "D-IV Management Bisnis"
-    },
-    {
-        "nip": "196501251990112001",
-        "username": "Selvie Joice Nangoy,SE.,MSi",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-III Akuntansi"
-    },
-    {
-        "nip": "196501271993031003",
-        "username": "LEVI PANDEY, SE, MSI",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "196502051990032001",
-        "username": "Treesje Lusje Runtuwene , SE., MAP",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": " D-IV Akuntansi Perpajakan"
-    },
-    {
-        "nip": "196503231990112001",
-        "username": "Martine M. Y. Lapod,SE.,M.Si",
-        "kategori": "DT",
-        "jurusan": "AB",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "196504091992032002",
-        "username": "Dra. Fonny Sangari.,M.Hum",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": "W",
-        "prodi": "D-IV Pariwisata"
-    },
-    {
-        "nip": "196504102001121001",
-        "username": "Robby Tangkudung, ST,MT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Komputer"
-    },
-    {
-        "nip": "196505081994031005",
-        "username": "Alpindos Toweula,SE.,MM.Ak.CA",
-        "kategori": "DT",
-        "jurusan": "AK",
-        "kelamin": "P",
-        "prodi": "D-IV Akuntansi Keuangan"
-    },
-    {
-        "nip": "196505222000121001",
-        "username": "Jemmy R. Pangemanan, SE., M.Si",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": "P",
-        "prodi": "D-IV Management Hotel"
-    },
-    {
-        "nip": "196506061990032001",
-        "username": "Treesje Amelia Clara Langi.SE.MSi",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-IV Keuangan"
-    },
-    {
-        "nip": "196506101990031006",
-        "username": "Artian Sirun, ST., MT.",
-        "kategori": "DB",
-        "jurusan": "TM",
-        "kelamin": "P",
-        "prodi": "Sarjana Terapan Teknik Mesin Produksi Dan Perawatan "
-    },
-    {
-        "nip": "196507111993031002",
-        "username": "Julianus Gesuri Daud,ST.,MT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Listrik"
-    },
-    {
-        "nip": "196507181997021001",
-        "username": "Dr. Robby Tanod Mamusung,SE.,MM",
-        "kategori": "DT",
-        "jurusan": "AB",
-        "kelamin": "P",
-        "prodi": "D-III Manajemen Pemasaran"
-    },
-    {
-        "nip": "196507221990032003",
-        "username": "Tammy Tinny Veisy Pangow,ST.,MT",
-        "kategori": "DB",
-        "jurusan": "TM",
-        "kelamin": "W",
-        "prodi": "SARJANA TERAPAN TEKNOLOGI REKAYASA MEKATRONIKA"
-    },
-    {
-        "nip": "196507231993032002",
-        "username": "Dra. Endah P.Haryono, M.Ed. TESOL",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "W",
-        "prodi": "D-IV Konstruksi Bangunan Gedung"
-    },
-    {
-        "nip": "196510051991031005",
-        "username": "Harry O. Wensen , SST.,MT",
-        "kategori": "DT",
-        "jurusan": "TM",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Mesin Produksi dan Perawatan"
-    },
-    {
-        "nip": "196510291992031002",
-        "username": "Ahmad Yani Abas, SST., MT",
-        "kategori": "DT",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Jalan dan Jembatan"
-    },
-    {
-        "nip": "196511191990031003",
-        "username": "Willem Gilbert Pomantow,SE.,MSi",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "P",
-        "prodi": "D-III Management Pemasaran "
-    },
-    {
-        "nip": "196604141994031002",
-        "username": "Rolyke Tulangow,SE.,M.Si",
-        "kategori": "DT",
-        "jurusan": "AB",
-        "kelamin": "P",
-        "prodi": "D-IV Management Bisnis"
-    },
-    {
-        "nip": "196604201996031001",
-        "username": "Ir.Aris sampe,MT",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "196605251994032003",
-        "username": "Angela Meity Koloay,SE.,MSi ",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-IV Keuangan"
-    },
-    {
-        "nip": "196606041995121002",
-        "username": "Ronny Evert Katuuk, SST.,MT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Komputer"
-    },
-    {
-        "nip": "196608231993032005",
-        "username": "Dr. Nancy Henrietta Jessamine Mandey",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "D-III Management Pemasaran"
-    },
-    {
-        "nip": "196609071990031003",
-        "username": "Fery Sondakh, ST., MT.",
-        "kategori": "DT",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Jalan dan Jembatan"
-    },
-    {
-        "nip": "196609081994032001",
-        "username": "Roslina H.S.D. Limpeleh, SE.,M.Si",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-IV Keuangan"
-    },
-    {
-        "nip": "196609261995122001",
-        "username": "Ir. Stephy Beatrix Walukow,.MT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "W",
-        "prodi": "D-IV Teknik Informatika"
-    },
-    {
-        "nip": "196610081993032002",
-        "username": "Dra. Anneke Marie Kaunang, M.Pd.",
-        "kategori": "DT",
-        "jurusan": "AK",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "196610121997021001",
-        "username": "Jerry Sonny Lintong, SE. MAP",
-        "kategori": "DT",
-        "jurusan": "AK",
-        "kelamin": "P",
-        "prodi": "D-IV Akuntansi Keuangan"
-    },
-    {
-        "nip": "196610221994032001",
-        "username": "Loula Luzy Lenny Walangitan,SE.,MAP",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-IV Keuangan"
-    },
-    {
-        "nip": "196611261991031001",
-        "username": "Nodi Poluan Sompie,SST.,MT",
-        "kategori": "DB",
-        "jurusan": "TM",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Mesin Perawatan dan Perbaikan"
-    },
-    {
-        "nip": "196611291993032001",
-        "username": "Johana Margaretha Ratag",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-IV Keuangan"
-    },
-    {
-        "nip": "196612131993032004",
-        "username": "Prof.Dr.Bet El Silisna Lagarense,MMTour",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": "W",
-        "prodi": "D-IV Management Hotel"
-    },
-    {
-        "nip": "196701191993032002",
-        "username": "DR.Jufrina Mandulangi,SE.,MSi",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "D-III Administrasi Bisnis"
-    },
-    {
-        "nip": "196701311992032002",
-        "username": "Dr. Jeaneta Josefin Rumerung,SE.,M.Si",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "D-III Administrasi Bisnis"
-    },
-    {
-        "nip": "196702021993031006",
-        "username": "Imran Musanif, SST.,M. Eng",
-        "kategori": "DT",
-        "jurusan": "TM",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Mesin Perawatan dan Perbaikan"
-    },
-    {
-        "nip": "196703101994032002",
-        "username": "Dra. Margaretha A. Rundengan, M.Pd.",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "D-IV Management Bisnis"
-    },
-    {
-        "nip": "196703151995021001",
-        "username": "Sudenroy Mentang, SST., MT",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "196704031994031004",
-        "username": "Daud Topayung",
-        "kategori": "DB",
-        "jurusan": "TM",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Mesin Perawatan dan Perbaikan"
-    },
-    {
-        "nip": "196705161994031013",
-        "username": "DR.Ir.Efendy Rasjid,M.Si.,MM",
-        "kategori": "DT",
-        "jurusan": "AB",
-        "kelamin": "P",
-        "prodi": "D-IV Management Bisnis"
-    },
-    {
-        "nip": "196705251990031001",
-        "username": "Dr. Francie Petrus, S.T., M.T.",
-        "kategori": "DT",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Sipil"
-    },
-    {
-        "nip": "196705281999021002",
-        "username": "Eliezer Manggoting Rongre,S.Si.,MSi",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Listrik"
-    },
-    {
-        "nip": "196706081993032002",
-        "username": "Harty U.H.L. Koagouw",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-IV Keuangan"
-    },
-    {
-        "nip": "196706241993031002",
-        "username": "Josef Arnoldus Johny Sumajouw, ST., MT",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Jalan dan Jembatan"
-    },
-    {
-        "nip": "196707091994031002",
-        "username": "DR. Anthon Kimbal, S.Pd.,S.H.,M.H",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Informatika"
-    },
-    {
-        "nip": "196707261992031002",
-        "username": "Dr. Teddy Takaendengan, ST., MT",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Sipil"
-    },
-    {
-        "nip": "196708262001122001",
-        "username": "Cindy Sandra Lumingkewas,SH,.,MAP.,MH",
-        "kategori": "DB",
-        "jurusan": "TM",
-        "kelamin": "W",
-        "prodi": "D-IV Teknik Produksi dan Perawatan"
-    },
-    {
-        "nip": "196709031997022001",
-        "username": "Dr. Sherley Runtunuwu, ST.,MT",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "W",
-        "prodi": "D-IV Konstruksi Bangunan Gedung"
-    },
-    {
-        "nip": "196709241997022001",
-        "username": "Tjerie Pangemanan, S.T.,M.Pd",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "W",
-        "prodi": "D-III Teknik Listrik"
-    },
-    {
-        "nip": "196710132003122001",
-        "username": "Yoice Putung,SST.,MT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "W",
-        "prodi": "D-III Teknik Listrik"
-    },
-    {
-        "nip": "196711181993031003",
-        "username": "Jerry Purnama,STh.,M.Si.,M.Pd.K",
-        "kategori": "DB",
-        "jurusan": "TM",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Mesin"
-    },
-    {
-        "nip": "196711291993031002",
-        "username": "Ruhiyat, SE.,M.Si",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "P",
-        "prodi": "D-III Pajak"
-    },
-    {
-        "nip": "196730041992031003",
-        "username": "Fanny J. Doringin, ST.,MT",
-        "kategori": "DT",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Listrik"
-    },
-    {
-        "nip": "196803152001122001",
-        "username": "Linda F.M.Sinolungan, SPd., MM",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "196803202002121001",
-        "username": "Marthen Pua,SH.,MAP",
-        "kategori": "DB",
-        "jurusan": "TM",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Mesin"
-    },
-    {
-        "nip": "196804161995121001",
-        "username": "Sonny Kasenda,ST.,MT",
-        "kategori": "DT",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Listrik"
-    },
-    {
-        "nip": "196804171994032002",
-        "username": "Dr. Betsi Rooroh, M.Pd.",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "W",
-        "prodi": "DIV Teknik Informatika"
-    },
-    {
-        "nip": "196805192001122002",
-        "username": "Dr. Sandri Linna Sengkey, ST., MT",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "W",
-        "prodi": "D-IV Teknik Jalan dan Jembatan"
-    },
-    {
-        "nip": "196806041999032002",
-        "username": "Mirjam Pratidina Tenda",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": "W",
-        "prodi": "D-III Pariwisata"
-    },
-    {
-        "nip": "196807111994032002",
-        "username": "Estrellita Varina Yanti Waney,ST.,MEngMgt",
-        "kategori": "DT",
-        "jurusan": "TS",
-        "kelamin": "W",
-        "prodi": "D-IV Konstruksi Bangunan Gedung"
-    },
-    {
-        "nip": "196807111997022001",
-        "username": "Dr. Ir. Geertje Efraty Kandiyoh,ST., M.Eng",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "W",
-        "prodi": "D-IV Konstruksi Bangunan Gedung"
-    },
-    {
-        "nip": "196807121994031001",
-        "username": "Jolly Turangan, SH.,M.Hum",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "P",
-        "prodi": "D-III Pajak"
-    },
-    {
-        "nip": "196808011998021001",
-        "username": "Ventje Lumentut, S.T.,M.T",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Listrik"
-    },
-    {
-        "nip": "196808012002121001",
-        "username": "Frans Rattu",
-        "kategori": "DT",
-        "jurusan": "P",
-        "kelamin": "P",
-        "prodi": "D-III Ekosistem Bawah Laut"
-    },
-    {
-        "nip": "196808082000032001",
-        "username": "Mercy A.Lumare,SPd.,MM",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": "W",
-        "prodi": "D-IV Management Hotel"
-    },
-    {
-        "nip": "196808091994032001",
-        "username": "Prof. Dr. Debby Willar, ST,M.Eng.Sc",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "W",
-        "prodi": "D-IV Konstruksi Bangunan Gedung"
-    },
-    {
-        "nip": "196808121995021001",
-        "username": "Errol F. Sumolang, ST., MT",
-        "kategori": "DT",
-        "jurusan": "TM",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Mesin"
-    },
-    {
-        "nip": "196809221993031001",
-        "username": "Mario Marthen Luther Moningka, ST .,MT",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "196811101995022001",
-        "username": "Novriana Amelia Pangemanan, SST., MM",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "W",
-        "prodi": "D-III Teknik Sipil"
-    },
-    {
-        "nip": "196811152002121001",
-        "username": "Nixon Servius Mantiri,ST.,MT",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Sipil"
-    },
-    {
-        "nip": "196811281990031002",
-        "username": "Muchdar Daeng Patabo, ST.,MT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Listrik"
-    },
-    {
-        "nip": "196812081996011001",
-        "username": "Jedithjah Naapia Tamedi Papia, ST., PGDip",
-        "kategori": "DB",
-        "jurusan": "TM",
-        "kelamin": "P",
-        "prodi": "D-IV Teknologi Rekayasa Mekatronika"
-    },
-    {
-        "nip": "196812082005012001",
-        "username": "Dr. Bernadain D. Polii, M.Pd",
-        "kategori": "DT",
-        "jurusan": "P",
-        "kelamin": "W",
-        "prodi": "D-IV Management Hotel"
-    },
-    {
-        "nip": "196812201994031006",
-        "username": "Nathaniel L. Bijang,ST,MT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Listrik"
-    },
-    {
-        "nip": "196901201998021001",
-        "username": "Dr. Kiet Tumiwa, SE.,MM.,Ak.,CA",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "P",
-        "prodi": "D-IV Keuangan"
-    },
-    {
-        "nip": "196901301993031003",
-        "username": "I Gede Para Atmaja,ST.,MT",
-        "kategori": "DT",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Komputer"
-    },
-    {
-        "nip": "196903171998021001",
-        "username": "Rudolf Estephanus Golioth Mait, ST, MT",
-        "kategori": "DT",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-IV Konstruksi Bangunan Gedung"
-    },
-    {
-        "nip": "196903191998032001",
-        "username": "Maureen Langie,ST,M.Pd,MM.Kom",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "W",
-        "prodi": "D-III Teknik Komputer"
-    },
-    {
-        "nip": "196904072008122001",
-        "username": "Jacqualine Greety Wenas, SE., MSA",
-        "kategori": "DT",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-IV Keuangan"
-    },
-    {
-        "nip": "196904252002121001",
-        "username": "Jeanlly A.Solang,SPi.,MSi",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": "P",
-        "prodi": "D-III Ekosistem Bawah Laut"
-    },
-    {
-        "nip": "196906131994032001",
-        "username": "Cysca Adeleida Juliana Langi, SE., M.Si",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "D-III Management Pemasaran"
-    },
-    {
-        "nip": "196907272001121002",
-        "username": "Djefry Hosang",
-        "kategori": "DB",
-        "jurusan": "TM",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "196910122003122002",
-        "username": "Vesty Like Sambeka, S.Pi.,M.Si",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": "W",
-        "prodi": "D-III Usaha Perjalanan Wisata"
-    },
-    {
-        "nip": "196912012003122002",
-        "username": "Deby Christiani Sendow, SS, MPd",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "W",
-        "prodi": "D-IV Teknik Jalan dan Jembatan"
-    },
-    {
-        "nip": "196912032002121001",
-        "username": "Jongky Kamagi, S.Pi., M.Si",
-        "kategori": "DT",
-        "jurusan": "P",
-        "kelamin": "P",
-        "prodi": "D-III Pariwisata"
-    },
-    {
-        "nip": "197001031997022001",
-        "username": "Syanne Pangemanan, ST., M.Eng",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "W",
-        "prodi": "D-IV Teknik Jalan dan Jembatan"
-    },
-    {
-        "nip": "197001092002121001",
-        "username": "Jemmry R. Winokan,SE.,M.Si",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "P",
-        "prodi": "D-IV Management Bisnis"
-    },
-    {
-        "nip": "197002051998022002",
-        "username": "Dr. Hedy Desiree Rumambi, SE., MM",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-IV Keuangan"
-    },
-    {
-        "nip": "197003052003122001",
-        "username": "Deisy Lusiana",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-IV Keuangan"
-    },
-    {
-        "nip": "197003091990101001",
-        "username": "Tony Alalinti,SKom.,MMKom",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "197003171995121001",
-        "username": "Franklin Bawano, ST,. MT",
-        "kategori": "DT",
-        "jurusan": "TM",
-        "kelamin": "P",
-        "prodi": "D - IV Teknik Mesin Produksi dan Perawatan"
-    },
-    {
-        "nip": "197003172005011001",
-        "username": "WINGSTON MARKUS JUSUF LONGDONG",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "P",
-        "prodi": "D-III Management Pemasaran"
-    },
-    {
-        "nip": "197005172003122001",
-        "username": "Ir.Telly Hetty Isje Kondoj,MSi",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": "W",
-        "prodi": "D-III Usaha Perjalanan Wisata"
-    },
-    {
-        "nip": "197005202003122001",
-        "username": "Maya Ernie Inneke Munaiseche, SS., M.Hum",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "W",
-        "prodi": "D-III Teknik Listrik"
-    },
-    {
-        "nip": "197010312000032001",
-        "username": "Lusye Corvanty Kumaat, SE.MSA. Ak",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "197012172008012016",
-        "username": "Decire Dumingkan Wagiu, SS., MHum",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-III Pajak"
-    },
-    {
-        "nip": "197042720031210001",
-        "username": "Antonius Adolf Tandi",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "P",
-        "prodi": "D-III Akuntansi"
-    },
-    {
-        "nip": "197101011999031004",
-        "username": "Harson Kapoh,ST.,MT",
-        "kategori": "DT",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Informatika"
-    },
-    {
-        "nip": "197101052002121002",
-        "username": "Toban Tiku Pairunan,S.Si.,MT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Informatika"
-    },
-    {
-        "nip": "197102162000032001",
-        "username": "Seska Nicolaas, ST.,MT",
-        "kategori": "DT",
-        "jurusan": "TS",
-        "kelamin": "W",
-        "prodi": "D-IV Konstruksi Bangunan Gedung"
-    },
-    {
-        "nip": "197102211998032005",
-        "username": "Dr. Febriane Paulina Makalew ST., MUDD",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "W",
-        "prodi": "D-IV Konstruksi Bangunan Gedung"
-    },
-    {
-        "nip": "197104171999032001",
-        "username": "Altje E. Tuwaidan, SE., MM",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": "W",
-        "prodi": "D-III Pariwisata"
-    },
-    {
-        "nip": "197104232003121001",
-        "username": "Hendry M.E Kumaat, SE., M.Si",
-        "kategori": "DK",
-        "jurusan": "P",
-        "kelamin": "P",
-        "prodi": "D-III Pariwisata"
-    },
-    {
-        "nip": "197104292005011001",
-        "username": "Esrie Alfian Nixon Limpeleh,SE.,MM",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "P",
-        "prodi": "D-III Akuntansi"
-    },
-    {
-        "nip": "197105142003121001",
-        "username": "Dr. Ir. Reiner Willsen Tampi, SST., MT",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Jalan dan Jembatan"
-    },
-    {
-        "nip": "197106222002122001",
-        "username": "Deyke Junita Femeli Mandang, ST.,MM",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "W",
-        "prodi": "D-IV Teknik Konstruksi Bangunan Gedung"
-    },
-    {
-        "nip": "197107091999032002",
-        "username": "Selvie R. Kalele,SE.,MSi",
-        "kategori": "DT",
-        "jurusan": "P",
-        "kelamin": "W",
-        "prodi": "D-III Pariwisata"
-    },
-    {
-        "nip": "197109142003121001",
-        "username": "Nelson Seleman Luppa, SST., M.Eng",
-        "kategori": "DT",
-        "jurusan": "TM",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Mesin Produksi & Perawatan"
-    },
-    {
-        "nip": "197110031997021001",
-        "username": "Dr. Ir. Tampanatu P. F. Sompie, ST., M.EngMgmt",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Jalan dan Jembatan"
-    },
-    {
-        "nip": "197111262003121001",
-        "username": "Alma Pongtuluran",
-        "kategori": "DT",
-        "jurusan": "P",
-        "kelamin": "P",
-        "prodi": "D-III Ekosistem Bawah Laut"
-    },
-    {
-        "nip": "197112202005012001",
-        "username": "Christien A. Karambut",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "D-III Administrasi Bisnis"
-    },
-    {
-        "nip": "197112312002122001",
-        "username": "Yollanda Lydia Lagarens, SS, MHum",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "W",
-        "prodi": "D-III Teknik Sipil"
-    },
-    {
-        "nip": "197203292003122002",
-        "username": "Meiske Martha Sangian, S.Pi, M.Si",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": "W",
-        "prodi": "D-III Ekosistem Bawah Laut"
-    },
-    {
-        "nip": "197204152002212001",
-        "username": "Stevie Kaligis",
-        "kategori": "DT",
-        "jurusan": "AK",
-        "kelamin": "P",
-        "prodi": "D-IV Akuntansi"
-    },
-    {
-        "nip": "197204272002121001",
-        "username": "Dannie Rieshart Stephen Oroh, S.Pi, M,Si",
-        "kategori": "DT",
-        "jurusan": "P",
-        "kelamin": "P",
-        "prodi": "D-III Ekosistem Bawah Laut"
-    },
-    {
-        "nip": "197205212003121001",
-        "username": "Tommy M.Kontu, SPi.,MSi",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": "P",
-        "prodi": "D-III Ekowisata Bawah Laut"
-    },
-    {
-        "nip": "197206022003122001",
-        "username": "Jeane Christine Lasut, SH.,MH",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-III Pajak"
-    },
-    {
-        "nip": "197206092001122001",
-        "username": "Dr. Diane Tangian, SH., M.Si",
-        "kategori": "DT",
-        "jurusan": "P",
-        "kelamin": "W",
-        "prodi": "D-III Pariwisata"
-    },
-    {
-        "nip": "197206152002122003",
-        "username": "Ivonne Helena Putong",
-        "kategori": "DT",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-IV Pajak"
-    },
-    {
-        "nip": "197209011998031006",
-        "username": "Trio Pendekar Lonan, ST., MT",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Jalan dan Jembatan"
-    },
-    {
-        "nip": "197209152002122001",
-        "username": "Diana Roweina Susana Maramis,SE.,MSi",
-        "kategori": "DT",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "D-III Management Pemasaran"
-    },
-    {
-        "nip": "197210122006042001",
-        "username": "Silvana A.R Wewengkang, SE., M.Si",
-        "kategori": "DT",
-        "jurusan": "P",
-        "kelamin": "W",
-        "prodi": "D-III Pariwisata"
-    },
-    {
-        "nip": "197301352003121001",
-        "username": "Kajur",
-        "kategori": "DT",
-        "jurusan": "P",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "197303252008122001",
-        "username": "Merry Ligia Sael, SE,MAP",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-IV Akuntansi Keuangan"
-    },
-    {
-        "nip": "197303312005011001",
-        "username": "Donald Bastian Noya, SST., MT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Listrik"
-    },
-    {
-        "nip": "197304042002121001",
-        "username": "Deky Eko WIbowo Mundung, SE.MM",
-        "kategori": "DT",
-        "jurusan": "AB",
-        "kelamin": "P",
-        "prodi": "D-III Administrasi Bisnis"
-    },
-    {
-        "nip": "197305092002121001",
-        "username": "Mycle Marcelino Wala, ST. MT.",
-        "kategori": "DK",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-IV Konstruksi Bangunan Gedung"
-    },
-    {
-        "nip": "197305272003121001",
-        "username": "Maykel A. Tampenawas, SE, MSi",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "P",
-        "prodi": "D-IV Keuangan"
-    },
-    {
-        "nip": "197305282005012001",
-        "username": "Meidy Wollah, S.Pd.,M.Pd",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "D-IV Management Bisnis"
-    },
-    {
-        "nip": "197307222002122001",
-        "username": "Juliet P.T. Makinggung, SE, MSi",
-        "kategori": "DT",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "Manajemen Bisnsi D-IV"
-    },
-    {
-        "nip": "197307262003121001",
-        "username": "Dr. Ir. Herman Alfis Tumengkol, S.ST., MT., IPM., ASEAN Eng.",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Sipil"
-    },
-    {
-        "nip": "197308072002121003",
-        "username": "Beldie Aryona Tombeg",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Sipil"
-    },
-    {
-        "nip": "197309041999031001",
-        "username": "Novatus Senduk, ST., MT.",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-IV Konstruksi Bangunan Gedung"
-    },
-    {
-        "nip": "197309092003121001",
-        "username": "Ali Akbar Steven Ramschie, SST.,MT",
-        "kategori": "DT",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Listrik"
-    },
-    {
-        "nip": "197309212006041008",
-        "username": "Benny Towoliu,SE.,M.Par..",
-        "kategori": "DT",
-        "jurusan": "P",
-        "kelamin": "P",
-        "prodi": "D-IV Management Hotel"
-    },
-    {
-        "nip": "197310152003121001",
-        "username": "Hendrie J. Palar, SST, MPSDA",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-IV Konstruksi Bangunan Gedung"
-    },
-    {
-        "nip": "197312112002122001",
-        "username": "Laela Worotikan SAg.Mpdi",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "W",
-        "prodi": "D-III Teknik Listrik"
-    },
-    {
-        "nip": "197312202001121001",
-        "username": "Maykel Adolf Jeduton Karauwan, SPi.,MSi",
-        "kategori": "DK",
-        "jurusan": "P",
-        "kelamin": "P",
-        "prodi": "D-III Ekosistem Bawah Laut"
-    },
-    {
-        "nip": "197312292003121001",
-        "username": "Doostenreyk N. Kantohe SST,MT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Listrik"
-    },
-    {
-        "nip": "197401112006041003",
-        "username": "Youdy J.H. Gumolili,SPi.,MSi",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": "P",
-        "prodi": "D-III Ekosistem Bawah Laut"
-    },
-    {
-        "nip": "197401211998021001",
-        "username": "Edwin Lumunon,ST.,MIT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Informatika"
-    },
-    {
-        "nip": "197401262003121001",
-        "username": "Vicky Alexander Assa, SST. MT",
-        "kategori": "DT",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Jalan dan Jembatan"
-    },
-    {
-        "nip": "197402142003121002",
-        "username": "Raymond F. Rombot",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "P",
-        "prodi": "D-III Pajak"
-    },
-    {
-        "nip": "197405012000032001",
-        "username": "Meidy Pingkan Yosefin Kawulur, S.Si., M.Si",
-        "kategori": "DB",
-        "jurusan": "TM",
-        "kelamin": "W",
-        "prodi": "DIV-Sarjana Terapan Teknologi Rekayasa Mekatronika"
-    },
-    {
-        "nip": "197405032003122002",
-        "username": "Seska Meily Hermin Mengko",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": "W",
-        "prodi": "D-III Usaha Perjalanan Wisata"
-    },
-    {
-        "nip": "197405232002121004",
-        "username": "Maksy Sendiang,SST.,MIT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Informatika"
-    },
-    {
-        "nip": "197406232008011003",
-        "username": "Johanes Herbert Tene, SE., MSA., Ak., CA.",
-        "kategori": "DT",
-        "jurusan": "AK",
-        "kelamin": "P",
-        "prodi": "D-III Pajak"
-    },
-    {
-        "nip": "197408102003122002",
-        "username": "Agnes Wakkary",
-        "kategori": "DB",
-        "jurusan": "TM",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "197409152002122001",
-        "username": "Mariska Walean,SE.,M.Si",
-        "kategori": "DT",
-        "jurusan": "AB",
-        "kelamin": "P",
-        "prodi": "D-IV Management Bisnis"
-    },
-    {
-        "nip": "197411102003122002",
-        "username": "PEARL LOESYE WENAS, SE. MSi",
-        "kategori": "DT",
-        "jurusan": "P",
-        "kelamin": "W",
-        "prodi": "D-IV Management Hotel"
-    },
-    {
-        "nip": "197411302003121001",
-        "username": "Dr. Ir. Don Radius Gerald Kabo, SST., MT",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Sipil"
-    },
-    {
-        "nip": "197502022008012019",
-        "username": "Dr. Silvy Dollorossa Boedi, S.T., M.T",
-        "kategori": "DB",
-        "jurusan": "TM",
-        "kelamin": "W",
-        "prodi": "D-IV Teknik Mesin Produksi dan Perawatan"
-    },
-    {
-        "nip": "197503052003121002",
-        "username": "Marson James Budiman,SST.,MT",
-        "kategori": "DT",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Komputer"
-    },
-    {
-        "nip": "197506082000122001",
-        "username": "Ivonne Frederika Yunita Polii,ST.,MT",
-        "kategori": "DB",
-        "jurusan": "TM",
-        "kelamin": "W",
-        "prodi": "D-III Teknik Mesin"
-    },
-    {
-        "nip": "197506162000032001",
-        "username": "Anita Ludia Vivian Wauran,SE.,M.Ak.,Ak",
-        "kategori": "DT",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-IV Akuntansi  Perpajakan"
-    },
-    {
-        "nip": "197507122002121001",
-        "username": "Dr. Steven Johny Runtuwene, SST., M.Eng",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Informatika"
-    },
-    {
-        "nip": "197507242003122001",
-        "username": "Anthoinete P.Y. Waroh,ST.MT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "W",
-        "prodi": "D-III Teknik Komputer"
-    },
-    {
-        "nip": "197510112003122002 ",
-        "username": "Dr. Olivia Moningka, ST.,M.Ars ",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "W",
-        "prodi": "D-1V Teknik Sipil"
-    },
-    {
-        "nip": "197510202003121001",
-        "username": "Oktavianus Lintong, S.Pi., M.Si",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": "P",
-        "prodi": "D-III Ekowisata Bawah-laut"
-    },
-    {
-        "nip": "1975104182003122002",
-        "username": "Dr. MITA ERDIATY TAKAENDENGAN, SS.,MTourism",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": "W",
-        "prodi": "D-IV Management Hotel"
-    },
-    {
-        "nip": "197511122001121001",
-        "username": "Alfred Noufie Mekel,SST.,MT",
-        "kategori": "DT",
-        "jurusan": "TM",
-        "kelamin": "P",
-        "prodi": "DIV-Teknologi Rekayasa Mekatronika"
-    },
-    {
-        "nip": "197512112000032001",
-        "username": "Deisy Christina Andih,.SE.MSi",
-        "kategori": "DT",
-        "jurusan": "P",
-        "kelamin": "W",
-        "prodi": "DIII Usaha Perjalanan Wisata"
-    },
-    {
-        "nip": "197601022008121002",
-        "username": "Adrian Maidangkay, S.T., M.T",
-        "kategori": "DB",
-        "jurusan": "TM",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Mesin Perawatan dan Perbaikan"
-    },
-    {
-        "nip": "197601272003121002",
-        "username": "Herry S Langi, SST., MT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Informatika"
-    },
-    {
-        "nip": "197601272003122001",
-        "username": "DR.Tineke Saroinsong.,SST.,M.Eng",
-        "kategori": "DT",
-        "jurusan": "TM",
-        "kelamin": "W",
-        "prodi": "D-IV Teknik Mesin Produksi dan Perawatan"
-    },
-    {
-        "nip": "197602082003121001",
-        "username": "Dr.Denny Boy Pinasang,SST.MT",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Jalan dan Jembatan"
-    },
-    {
-        "nip": "197603242002122001",
-        "username": "Margresye Rompas, S.IK, M.Si",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": "W",
-        "prodi": "D-III Ekosistem Bawah Laut"
-    },
-    {
-        "nip": "197609042005011001",
-        "username": "Joseph Nugraha Tangon",
-        "kategori": "DT",
-        "jurusan": "AK",
-        "kelamin": "P",
-        "prodi": "D-III Akuntansi"
-    },
-    {
-        "nip": "197610162005011001",
-        "username": "Anritsu Steven Christian Polii, SST., MT.",
-        "kategori": "DT",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Informatika"
-    },
-    {
-        "nip": "197610212002121003",
-        "username": "Ottopianus Mellolo, S.Si, MT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-III Teknik Komputer"
-    },
-    {
-        "nip": "197611032001121002",
-        "username": "Dr. Ir. Carter David Erenst Kandou,ST.,MT",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-IV Konstruksi Bangunan Gedung"
-    },
-    {
-        "nip": "197611042002122002",
-        "username": "Grace Joice S.N Rumimper, SH.,MH.,MM",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "D-III Administrasi Bisnis"
-    },
-    {
-        "nip": "197701292003122002",
-        "username": "Dr. Winda Sanni Slat SST., M.Eng",
-        "kategori": "DT",
-        "jurusan": "TM",
-        "kelamin": "W",
-        "prodi": "D-IV Teknik Mesin Perawatan dan Perbaikan"
-    },
-    {
-        "nip": "197705222003122001",
-        "username": "Meike Negawati Kesek, SH., MAP",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-III Akuntansi"
-    },
-    {
-        "nip": "197707152001121004",
-        "username": "Yonatan Parassa,S.Kom.,MT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "197709262003122002",
-        "username": "Helen G. Mantiri, SST. MT",
-        "kategori": "DT",
-        "jurusan": "TS",
-        "kelamin": "W",
-        "prodi": "D-IV Konstruksi Bangunan Gedung"
-    },
-    {
-        "nip": "197803022003121003",
-        "username": "Ir. Merci Freki Hosang, SST, MT",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "DIV TEKNIK JALAN DAN JEMBATAN"
-    },
-    {
-        "nip": "197803262003122001",
-        "username": "Easter Ch. M. Tulung, SIK, MSi",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": "W",
-        "prodi": "D-III Ekosistem Bawah Laut"
-    },
-    {
-        "nip": "197804062003122002",
-        "username": "Marike Amelda Silvia Kondoj,SST.,MT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "W",
-        "prodi": "D-IV Teknik Informatika"
-    },
-    {
-        "nip": "197807102008121003",
-        "username": "Adriyan Warokka, S.T., M.Eng.",
-        "kategori": "DB",
-        "jurusan": "TM",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Mesin Perawatan dan Perbaikan"
-    },
-    {
-        "nip": "197809272005011002",
-        "username": "Alfrets Septy Wauran, S.T.,M.Kom.,MCSE",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Informatika"
-    },
-    {
-        "nip": "197811062024212001",
-        "username": "Selfi Sondang Lena Imelda Sihombing, M.Pd.K",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "197811212009121002",
-        "username": "Arthur L.M Karwur, SE, MS.i",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "P",
-        "prodi": "D-IV Management Bisnis"
-    },
-    {
-        "nip": "197906022002122001",
-        "username": "Dr. Rilya Rumbayan, ST., M.Eng.",
-        "kategori": "DT",
-        "jurusan": "TS",
-        "kelamin": "W",
-        "prodi": "D-IV Konstruksi Bangunan Gedung"
-    },
-    {
-        "nip": "197907202006042001",
-        "username": "Sulastri Eksan, ST., MT",
-        "kategori": "DT",
-        "jurusan": "TE",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "197907202006042003",
-        "username": "Sulastri Eksan, ST, MT",
-        "kategori": "DT",
-        "jurusan": "TE",
-        "kelamin": "W",
-        "prodi": "D-IV Teknik Informatika"
-    },
-    {
-        "nip": "197912032003122001",
-        "username": "Dr. Ir. Daisy Debora Grace Pangemanan, ST., MT., M.Si",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "W",
-        "prodi": "D-IV Konstruksi Bangunan Gedung"
-    },
-    {
-        "nip": "198002062005012001",
-        "username": "Veny Vita Ponggawa, SST, MT",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "W",
-        "prodi": "D-IV Teknik Informatika"
-    },
-    {
-        "nip": "198208162023212035",
-        "username": "Nisba Silvana, S.E., M.M.",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "Manajemen Bisnis"
-    },
-    {
-        "nip": "198210302008011009",
-        "username": "Dimas Ero Permana, SST.Par., M.Par",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": "P",
-        "prodi": "D-IV Management Hotel"
-    },
-    {
-        "nip": "198311172019031004",
-        "username": "Stanley B. Dodie, SH.,MH ",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Listrik"
-    },
-    {
-        "nip": "198312052010122002",
-        "username": "Dr.Yurike Sintia Lewan,SS.,M.Hum",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": "W",
-        "prodi": "DIII Usaha Perjalanan Wisata"
-    },
-    {
-        "nip": "198401162018032001",
-        "username": "Adelaida Joroh, SE.,MM",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "D-IV Management Bisnis"
-    },
-    {
-        "nip": "198505032019031010",
-        "username": "Melky Krisna Elia Paendong, SE., MBA",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "P",
-        "prodi": "D-III Administrasi Bisnis"
-    },
-    {
-        "nip": "198603272019031014",
-        "username": "Raykes Hinrich Tuerah, SE., MSA",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "P",
-        "prodi": "D-IV Keuangan"
-    },
-    {
-        "nip": "198706192019032012",
-        "username": "Precylia Ribka Rambing, SE., MM",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "D-IV Management Bisnis"
-    },
-    {
-        "nip": "198708272022032005",
-        "username": "Wenny Anggeresia Ginting, S. E., M.Si",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "sarjana terapan akuntansi keuangan"
-    },
-    {
-        "nip": "198709082018031002",
-        "username": "Stieven Netanel Rumokoy, S.T., M.T., IPM",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Listrik"
-    },
-    {
-        "nip": "198709202022031002",
-        "username": "Stefani Switly Peginusa, S.ST, M.T",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-IV Konstruksi Bangunan Gedung"
-    },
-    {
-        "nip": "198803222022032003",
-        "username": "Irfiani Bakri. S.Pd.,M.Hum",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "D-III Management Pemasaran"
-    },
-    {
-        "nip": "198804102022031006",
-        "username": "Arifmanuel Kolondam, SE., MM",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "P",
-        "prodi": "D-IV Management Bisnis"
-    },
-    {
-        "nip": "198805112019031013",
-        "username": "Christony Maradesa, SE, MSA, Ak",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "P",
-        "prodi": "D-IV Keuangan"
-    },
-    {
-        "nip": "198807142018031001",
-        "username": "Arief Perdana Kumaat, SE., MM.",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "P",
-        "prodi": "D-III Management Pemasaran"
-    },
-    {
-        "nip": "198810242022031003",
-        "username": "Dwars Soukotta, S.T., M.Ars.",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-IV Konstruksi Bangunan Gedung"
-    },
-    {
-        "nip": "198907072019032022",
-        "username": "Sintia Korompis,SE.,MSA",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "D-IV Akuntansi Keuangan"
-    },
-    {
-        "nip": "198911172022031011",
-        "username": "Leony Ariesta Wenno S.T, M.Eng",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Listrik"
-    },
-    {
-        "nip": "198912302018031001",
-        "username": "Christopel Hamonangan Simanjuntak,S.T.,M.Eng",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "P",
-        "prodi": "D-IV Teknik Informatika"
-    },
-    {
-        "nip": "199001242022031008",
-        "username": "Mikhael C.S. Mangolo, SST.Par.,M.Par",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": "P",
-        "prodi": "D-IV Management Hotel"
-    },
-    {
-        "nip": "199003132019032015",
-        "username": "Merryany Theovanny Bawole, SH.,MH",
-        "kategori": "DB",
-        "jurusan": "P",
-        "kelamin": "W",
-        "prodi": "D-IV Management Hotel"
-    },
-    {
-        "nip": "199011172022032004",
-        "username": "Mega Fitri Wulandari, M.Pd",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "D-IV Management Bisnis"
-    },
-    {
-        "nip": "199109122019031013",
-        "username": "Ir. Fandel Maluw, SST.,MT",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-IV Konstruksi Bangunan Gedung"
-    },
-    {
-        "nip": "199111272019032020",
-        "username": "Cyntha Tendean, ST., MT",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": "W",
-        "prodi": "D-IV Teknik Jalan dan Jembatan"
-    },
-    {
-        "nip": "199112122019031014",
-        "username": "Andreuw Kristian Pantow, SE., MSA., Ak, CA",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "P",
-        "prodi": "D-III Akuntansi"
-    },
-    {
-        "nip": "199208162022031008",
-        "username": "Belthasar Trito Siahaan, SE., M.Si",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "P",
-        "prodi": "D-IV Keuangan"
-    },
-    {
-        "nip": "199210302019032022",
-        "username": "Gratia Natrina Kaparang, S.AB, M.AB",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "D-III Administrasi Bisnis"
-    },
-    {
-        "nip": "199303232022031010",
-        "username": "Ficky Marchfirmanto Purba, BBA., M.M.",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "P",
-        "prodi": "D-IV Management Bisnis"
-    },
-    {
-        "nip": "199310312023211014",
-        "username": "Mohamad Rianto Talamati",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "P",
-        "prodi": "D-III Akuntansi"
-    },
-    {
-        "nip": "199401182022032009",
-        "username": "Reski Amalia. S, S.Pd., M.Hum",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "D-III Administrasi Bisnis"
-    },
-    {
-        "nip": "199402192022032013",
-        "username": "Fitria Claudya Lahinta, SST., MT.",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "W",
-        "prodi": "D-IV Teknik Informatika"
-    },
-    {
-        "nip": "199403152022032013",
-        "username": "Fanesa Isalia Minanda Syaefudin, M.Acc",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "W",
-        "prodi": "Sarjana Terapan Akuntansi Keuangan"
-    },
-    {
-        "nip": "199406272022042001",
-        "username": "Friska Jutresia Papia, SE., MM",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "D-IV Management Bisnis"
-    },
-    {
-        "nip": "199408302022031009",
-        "username": "Andreas Randy Wangarry, S.E., M.S.A",
-        "kategori": "DB",
-        "jurusan": "AK",
-        "kelamin": "P",
-        "prodi": "D-IV Keuangan"
-    },
-    {
-        "nip": "20012115",
-        "username": "Yosua Gilberth Cristovel Rondonuwu",
-        "kategori": "DT",
-        "jurusan": "TS",
-        "kelamin": "P",
-        "prodi": "D-IV Konstruksi Bangunan Gedung"
-    },
-    {
-        "nip": "20023027",
-        "username": "Chelin Sara Tumiwa",
-        "kategori": "DT",
-        "jurusan": "TE",
-        "kelamin": "W",
-        "prodi": "D-IV Teknik Listrik"
-    },
-    {
-        "nip": "20030001",
-        "username": "Galman Marcelino Pudi",
-        "kategori": "DT",
-        "jurusan": "TM",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "20051018",
-        "username": "Via Nanda Helmalia Putri",
-        "kategori": "DT",
-        "jurusan": "AB",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "202101",
-        "username": "Admin P3M",
-        "kategori": "DT",
-        "jurusan": "TS",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "21053088",
-        "username": "Wulan C. Supit",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": "W",
-        "prodi": "D-IV Management Bisnis"
-    },
-    {
-        "nip": "21099006",
-        "username": "Sintya Paula Junaedy, SH., MH",
-        "kategori": "DB",
-        "jurusan": "TE",
-        "kelamin": "W",
-        "prodi": "D-IV Teknik Informatika"
-    },
-    {
-        "nip": "22021038",
-        "username": "Krisna A. Karepowan",
-        "kategori": "DT",
-        "jurusan": "TE",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "22021040",
-        "username": "Rigel F. Mingkid",
-        "kategori": "DT",
-        "jurusan": "TE",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "23051030",
-        "username": "23051030",
-        "kategori": "DT",
-        "jurusan": "AB",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "23051037",
-        "username": "23051037",
-        "kategori": "DT",
-        "jurusan": "AB",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "230574",
-        "username": "Super Admin",
-        "kategori": null,
-        "jurusan": null,
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "30000",
-        "username": "Kajur Teknik Sipil ",
-        "kategori": "DT",
-        "jurusan": "TS",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "30001",
-        "username": "Kajur Teknik Elektro",
-        "kategori": "DT",
-        "jurusan": "TE",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "30002",
-        "username": "Kajur Teknik Mesin",
-        "kategori": "DT",
-        "jurusan": "TM",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "30003",
-        "username": "Kajur Akuntansi",
-        "kategori": "DT",
-        "jurusan": "AK",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "30004",
-        "username": "Kajur Administrasi Bisnis",
-        "kategori": "DT",
-        "jurusan": "AB",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "30005",
-        "username": "Kajur Pariwisata",
-        "kategori": "DT",
-        "jurusan": "P",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "345",
-        "username": "anton",
-        "kategori": null,
-        "jurusan": null,
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "7171050404790002",
-        "username": "Alfrets Daleno",
-        "kategori": "DT",
-        "jurusan": "AK",
-        "kelamin": "P",
-        "prodi": "D-IV Keuangan"
-    },
-    {
-        "nip": "7171052409900021",
-        "username": "Agung Stefanus Kembau, SE.,MBA",
-        "kategori": "DB",
-        "jurusan": "AB",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "9012",
-        "username": "Johnly Soni Rorong, S.Sos., M.Si.",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "9013",
-        "username": "Askari Kumaat ",
-        "kategori": "DB",
-        "jurusan": "TS",
-        "kelamin": null,
-        "prodi": null
-    },
-    {
-        "nip": "999999999999999999",
-        "username": "Coba",
-        "kategori": "DT",
-        "jurusan": "TS",
-        "kelamin": null,
-        "prodi": null
+        "status": "gagal",
+        "jumlahmitra": 1,
+        "namamitra1": "Ketua Penggerak PKK Kelurahan Malalayang Dua",
+        "namamitra2": null,
+        "alamatmitra2": null,
+        "alamatmitra1": "Kelurahan Malalayang Dua",
+        "revisi": "no",
+        "tanggalSubmit": "2023-03-05T00:00:00.000Z",
+        "verifikasi": null,
+        "kinerja": null,
+        "komkapus": null
     }
 ]
