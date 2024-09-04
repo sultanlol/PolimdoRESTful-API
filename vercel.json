@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "filejsonAPI/**/*.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/filejsonAPI/(.*)",
+      "dest": "/filejsonAPI/$1.js"
+    }
+  ]
+}
