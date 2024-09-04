@@ -42,23 +42,23 @@
         <section class="section-background">
             <h2>Coba kode ini!</h2>
             <p>Jalankan kode program ini untuk menguji API:</p>
-            <pre><code id="example">fetch('http://localhost:3000/api/apiAkhirPenelitian')
+            <pre><code id="example">fetch('http://localhost:3000/api/apimataKuliahTE/2')
     .then(response => response.json())
     .then(json => console.log(json));</code></pre>
             <button id="run-button" class="btn btn-primary">Run Script</button>
             <pre id="result" class="mt-3"><code>{}</code></pre>
-            <p id="run-message" class="text-success d-none">Success! You've made your first API call.</p>
+            <p id="run-message" class="text-success d-none">Berhasil! Kamu menjalankan skriptnya.</p>
         </section>
 
         <section class="section-background">
             <h2>Endpoints API Tersedia</h2>
             <ul>
-                <li><a href="#">/api/apiAkhirPenelitian </a> - List of Akhir Penelitian</li>
-                <li><a href="#">/api/apiAkhirPengabdian </a> - List of Akhir Pengabdian</li>
-                <li><a href="#">/api/apiPenelitian </a> - List of Penelitian</li>
-                <li><a href="#">/api/apiPengabdian </a> - List of Pengabdian</li>
-                <li><a href="#">/api/apiDosen </a> - List of Dosen</li>
-                <li><a href="#">/api/apimataKuliahTE </a> - List of Mata Kuliah Teknik Elektro</li>
+                <li><a href="http://localhost:3000/api/apiAkhirPenelitian">/api/apiAkhirPenelitian </a> - List of Akhir Penelitian</li>
+                <li><a href="http://localhost:3000/api/apiAkhirPengabdian">/api/apiAkhirPengabdian </a> - List of Akhir Pengabdian</li>
+                <li><a href="http://localhost:3000/api/apiPenelitian">/api/apiPenelitian </a> - List of Penelitian</li>
+                <li><a href="http://localhost:3000/api/apiAkhirPengabdian">/api/apiPengabdian </a> - List of Pengabdian</li>
+                <li><a href="http://localhost:3000/api/apiDosen">/api/apiDosen </a> - List of Dosen</li>
+                <li><a href="http://localhost:3000/api/apimataKuliahTE">/api/apimataKuliahTE </a> - List of Mata Kuliah Teknik Elektro</li>
             </ul>
         </section>
 
@@ -75,51 +75,51 @@
                 <tbody>
                     <tr>
                         <td>GET</td>
-                        <td><a href="#">/api/apiAkhirPenelitian</a></td>
+                        <td><a href="http://localhost:3000/api/apiAkhirPenelitian">/api/apiAkhirPenelitian</a></td>
                     </tr>
                     <tr>
                         <td>GET</td>
-                        <td><a href="#">/api/apiAkhirPenelitian/:id</a></td>
+                        <td><a href="http://localhost:3000/api/apiAkhirPenelitian/637e35ae07679">/api/apiAkhirPenelitian/:id</a></td>
                     </tr>
                     <tr>
                         <td>GET</td>
-                        <td><a href="#">/api/apiAkhirPengabdian/</a></td>
+                        <td><a href="http://localhost:3000/api/apiAkhirPengabdian">/api/apiAkhirPengabdian/</a></td>
                     </tr>
                     <tr>
                         <td>GET</td>
-                        <td><a href="#">/api/apiAkhirPengabdian/:id</a></td>
+                        <td><a href="http://localhost:3000/api/apiAkhirPengabdian/637f7d983b25f">/api/apiAkhirPengabdian/:id</a></td>
                     </tr>
                     <tr>
                         <td>GET</td>
-                        <td><a href="#">/api/apiPenelitian</a></td>
+                        <td><a href="http://localhost:3000/api/apiPenelitian">/api/apiPenelitian</a></td>
                     </tr>
                     <tr>
                         <td>GET</td>
-                        <td><a href="#">/api/apiPenelitian/:id</a></td>
+                        <td><a href="http://localhost:3000/api/apiPenelitian/620fa4ce650ef">/api/apiPenelitian/:id</a></td>
                     </tr>
                     <tr>
                         <td>GET</td>
-                        <td><a href="#">/api/apiPengabdian</a></td>
+                        <td><a href="http://localhost:3000/api/apiPengabdian">/api/apiPengabdian</a></td>
                     </tr>
                     <tr>
                         <td>GET</td>
-                        <td><a href="#">/api/apiPengabdian/:id</a></td>
+                        <td><a href="http://localhost:3000/api/apiPengabdian/64007652a51c7">/api/apiPengabdian/:id</a></td>
                     </tr>
                     <tr>
                         <td>GET</td>
-                        <td><a href="#">/api/apiDosen</a></td>
+                        <td><a href="http://localhost:3000/api/apiDosen">/api/apiDosen</a></td>
                     </tr>
                     <tr>
                         <td>GET</td>
-                        <td><a href="#">/api/apiDosen/:id</a></td>
+                        <td><a href="http://localhost:3000/api/apiDosen/195706041989031001">/api/apiDosen/:id</a></td>
                     </tr>
                     <tr>
                         <td>GET</td>
-                        <td><a href="#">/api/apimataKuliahTE</a></td>
+                        <td><a href="http://localhost:3000/api/apimataKuliahTE">/api/apimataKuliahTE</a></td>
                     </tr>
                     <tr>
                         <td>GET</td>
-                        <td><a href="#">/api/apimataKuliahTE/:id</a></td>
+                        <td><a href="http://localhost:3000/api/apimataKuliahTE/2">/api/apimataKuliahTE/:id</a></td>
                     </tr>
                     <tr>
                         <td>POST</td>
@@ -200,7 +200,7 @@
 
     <script>
         document.getElementById('run-button').addEventListener('click', function() {
-            fetch('https://raw.githubusercontent.com/sultanlol/PolimdoRESTful-API/master/filejsonAPI/akhirpenelitian.json')
+            fetch('http://localhost:3000/api/apimataKuliahTE/2')
                 .then(response => response.json())
                 .then(json => {
                     document.getElementById('result').textContent = JSON.stringify(json, null, 2);
