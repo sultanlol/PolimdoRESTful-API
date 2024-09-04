@@ -8,7 +8,7 @@
   ],
   "routes": [
     {
-      "src": "/filejsonAPI/(.*)",
+      "src": "/api/(.*)",
       "dest": "/filejsonAPI/$1.js"
     }
   ]
