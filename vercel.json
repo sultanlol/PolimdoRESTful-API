@@ -2,25 +2,14 @@
   "version": 2,
   "builds": [
     {
-      "src": "package.json",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": "public"
-      }
+      "src": "Restfulapifake.html",
+      "use": "@vercel/static"
     }
   ],
   "routes": [
     {
-      "src": "/Restfulapifake.html",
-      "dest": "/Restfulapifake.html"
-    },
-    {
-      "src": "/guideapifake.html",
-      "dest": "/guideapifake.html"
-    },
-    {
-      "src": "/api/(.*)",
-      "dest": "/api/$1"
+      "src": "/filejsonAPI/(.*)",
+      "dest": "/filejsonAPI/$1"
     }
   ]
 }
